@@ -1,0 +1,150 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Стили Новелки</title>
+<style>
+  :root { --bg: #17141c; --card: #221d2a; --line: #352d42; --text: #ece7f3; --dim: #a79db8; --accent: #b48cff; }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text); font: 15px/1.45 system-ui, -apple-system, "Segoe UI", sans-serif; }
+  header { padding: 18px 16px 6px; max-width: 1200px; margin: 0 auto; }
+  h1 { margin: 0 0 4px; font-size: 22px; }
+  .sub { color: var(--dim); margin: 0 0 12px; }
+  .bar { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+  input[type=search] { flex: 1 1 200px; min-width: 0; padding: 10px 12px; border-radius: 10px; border: 1px solid var(--line);
+    background: var(--card); color: var(--text); font: inherit; }
+  .chip { padding: 8px 14px; border-radius: 999px; border: 1px solid var(--line); background: var(--card); color: var(--dim);
+    font: inherit; cursor: pointer; }
+  .chip.on { border-color: var(--accent); color: var(--text); }
+  main { max-width: 1200px; margin: 0 auto; padding: 12px 16px 40px; display: grid; gap: 14px;
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); }
+  .card { background: var(--card); border: 1px solid var(--line); border-radius: 14px; overflow: hidden; display: flex; flex-direction: column; }
+  .card img { width: 100%; aspect-ratio: 832 / 1216; object-fit: cover; display: block; cursor: zoom-in; background: #111; }
+  .body { padding: 10px 12px 12px; display: flex; flex-direction: column; gap: 8px; }
+  .name { font-weight: 600; }
+  .tagsrow { display: flex; gap: 6px; flex-wrap: wrap; }
+  .badge { font-size: 12px; padding: 2px 8px; border-radius: 999px; border: 1px solid var(--line); color: var(--dim); }
+  .badge.house { border-color: var(--accent); color: var(--accent); }
+  .btns { display: flex; gap: 6px; }
+  button.act { flex: 1; padding: 9px 6px; border-radius: 10px; border: 1px solid var(--line); background: #2b2436; color: var(--text);
+    font: inherit; cursor: pointer; }
+  button.act:active, button.act.done { border-color: var(--accent); }
+  details { color: var(--dim); font-size: 13px; }
+  details p { margin: 6px 0 0; word-break: break-word; }
+  .empty { color: var(--dim); padding: 30px 0; grid-column: 1 / -1; text-align: center; }
+  #zoom { position: fixed; inset: 0; background: rgba(0, 0, 0, .88); display: none; align-items: center; justify-content: center;
+    cursor: zoom-out; z-index: 5; }
+  #zoom img { max-width: 96vw; max-height: 96vh; border-radius: 10px; }
+  #zoom.on { display: flex; }
+  @media (max-width: 520px) { main { grid-template-columns: repeat(2, 1fr); gap: 10px; padding: 10px; } .btns { flex-direction: column; } }
+</style>
+</head>
+<body>
+<header>
+  <h1>Стили Новелки</h1>
+  <p class="sub">Одна и та же сцена и один сид, меняется только стиль. В Discord: <b>/новелка</b> → поле <b>стиль</b> → начни печатать название.</p>
+  <div class="bar">
+    <input id="q" type="search" placeholder="Поиск по названию и тегам">
+    <button class="chip on" data-m="">Все</button>
+    <button class="chip" data-m="v5">V5</button>
+    <button class="chip" data-m="4.5">4.5</button>
+  </div>
+</header>
+<main id="grid"></main>
+<div id="zoom"><img alt=""></div>
+<script src="styles.js"></script>
+<script>
+(function () {
+  var LIB = window.LIB || { styles: [] };
+  var grid = document.getElementById('grid'), q = document.getElementById('q'), zoom = document.getElementById('zoom');
+  var model = '';
+  var MODEL_LABEL = { 'v5': 'V5', '4.5': '4.5', 'any': 'любая модель' };
+
+  function el(tag, cls, text) {
+    var e = document.createElement(tag);
+    if (cls) e.className = cls;
+    if (text != null) e.textContent = text;
+    return e;
+  }
+
+  function copy(btn, text) {
+    function ok() {
+      var old = btn.textContent;
+      btn.textContent = 'Скопировано';
+      btn.classList.add('done');
+      setTimeout(function () { btn.textContent = old; btn.classList.remove('done'); }, 1200);
+    }
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(text).then(ok, function () { fallback(text); ok(); });
+    } else { fallback(text); ok(); }
+  }
+
+  function fallback(text) {
+    var t = el('textarea');
+    t.value = text;
+    document.body.appendChild(t);
+    t.select();
+    try { document.execCommand('copy'); } catch (e) {}
+    t.remove();
+  }
+
+  function card(s) {
+    var c = el('div', 'card');
+    var img = el('img');
+    img.src = 'img/' + s.id + '.webp';
+    img.alt = s.name;
+    img.loading = 'lazy';
+    img.onclick = function () { zoom.firstChild.src = img.src; zoom.classList.add('on'); };
+    c.appendChild(img);
+    var b = el('div', 'body');
+    b.appendChild(el('div', 'name', s.name));
+    var row = el('div', 'tagsrow');
+    row.appendChild(el('span', 'badge', MODEL_LABEL[s.model] || s.model));
+    if (s.model === 'any' && s.drawn) row.appendChild(el('span', 'badge', 'превью на ' + (MODEL_LABEL[s.drawn] || s.drawn)));
+    if (s.house) row.appendChild(el('span', 'badge house', 'по умолчанию'));
+    b.appendChild(row);
+    var btns = el('div', 'btns');
+    var b1 = el('button', 'act', 'Название');
+    b1.title = 'Скопировать название для /новелка';
+    b1.onclick = function () { copy(b1, s.name); };
+    var b2 = el('button', 'act', 'Теги');
+    b2.title = 'Скопировать теги стиля';
+    b2.onclick = function () { copy(b2, s.tags); };
+    btns.appendChild(b1);
+    btns.appendChild(b2);
+    b.appendChild(btns);
+    var d = el('details');
+    d.appendChild(el('summary', null, 'Показать теги'));
+    d.appendChild(el('p', null, s.tags));
+    b.appendChild(d);
+    c.appendChild(b);
+    return c;
+  }
+
+  function draw() {
+    var needle = q.value.trim().toLowerCase();
+    grid.textContent = '';
+    var shown = LIB.styles.filter(function (s) {
+      if (model && s.model !== model && s.model !== 'any') return false;
+      return !needle || (s.name + ' ' + s.tags).toLowerCase().indexOf(needle) >= 0;
+    });
+    shown.forEach(function (s) { grid.appendChild(card(s)); });
+    if (!shown.length) grid.appendChild(el('div', 'empty', 'Ничего не нашлось.'));
+  }
+
+  q.oninput = draw;
+  Array.prototype.forEach.call(document.querySelectorAll('.chip'), function (ch) {
+    ch.onclick = function () {
+      model = ch.getAttribute('data-m');
+      Array.prototype.forEach.call(document.querySelectorAll('.chip'), function (x) { x.classList.toggle('on', x === ch); });
+      draw();
+    };
+  });
+  zoom.onclick = function () { zoom.classList.remove('on'); };
+  draw();
+})();
+</script>
+</body>
+</html>
