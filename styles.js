@@ -449,6 +449,14 @@ window.LIB = {
    "drawn": "v5",
    "house": false,
    "tags": "high complexity, masterpiece, best quality, amazing quality, highres, very aesthetic, painterly, detailed face, 0.7::artist:ramsrar::, 0.3::artist:m_m_pb::, 0.8::artist:denpa0304 ::, 0.6::artist:en_(e898n)::, artist:dang0_23, 0.8::artist:suzumi (ccroquette)::, 0.5::artist:zero q 0q ::, year 2025, oekaki, -2::unfinished::, 1.7::artist:suzumi_(ccroquette)::,0.2::artist:n_sol::, absurdres, year 2026, 1.2::artist:faxparduo::, 0.8::artist:aransmind::, artist::east_100, artist:angrymiloras"
+  },
+  {
+   "id": "umwti2xai",
+   "name": "добавить нада",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "0.9::pururu ru6 ::, 0.7::maegjuw::, 0.8::itslopezz::, year 2026, 0.8::wiistef::, iotaectoplasm, 0.6::dashingicecream::, steemyart, wickesdt, soft colours, sharp_focus"
   }
  ]
 };
