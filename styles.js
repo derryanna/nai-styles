@@ -451,6 +451,126 @@ window.LIB = {
    "tags": "high complexity, masterpiece, best quality, amazing quality, highres, very aesthetic, painterly, detailed face, 0.7::artist:ramsrar::, 0.3::artist:m_m_pb::, 0.8::artist:denpa0304 ::, 0.6::artist:en_(e898n)::, artist:dang0_23, 0.8::artist:suzumi (ccroquette)::, 0.5::artist:zero q 0q ::, year 2025, oekaki, -2::unfinished::, 1.7::artist:suzumi_(ccroquette)::,0.2::artist:n_sol::, absurdres, year 2026, 1.2::artist:faxparduo::, 0.8::artist:aransmind::, artist::east_100, artist:angrymiloras"
   },
   {
+   "id": "s57",
+   "name": "Глянцевая полуживопись, тёплый свет",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "1.2::aoma (xuanzexuexi), 0.8::kuroihato, 1.2::mian lang, 1.1::vlfdus 0 ::, 1.1::qi chuang she::, 0.6::chengongzi123 ::, 1.1::teeniika::, 1.2::dang0_23 ::, 0.7::yoonmiumi, niku_(ni23ku)::, 0.5::en_(e898n)::, muksal, 1.5::marceline2174 ::, 0.5::nyugi0v0 ::, artist:aruiu, 0.5::daimaou ruaeru::, 0.2::artist:n_sol::, year 2026, newest, 1.2::artist:faxparduo::, 1.1::photorealistic::, artist:ramiica, 0.6::artist:almondtofu_boy::, solarsistim, lart art1, 1.5::sebone long::"
+  },
+  {
+   "id": "s58",
+   "name": "Реализм, кинофильтр, объёмные тени",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "1.2::au_(d_elete)::,1.3::lesly_oh::,1.4::objShep::,1.6::zero_q_0q::,0.9::etceteraart::, 1.2::naohiro_ito::,realistic,best_quality,ultra_detail,volumetric_shadow,sharp_focus,perspective,cinematic_filter,photorealistic_background,depth_of_field"
+  },
+  {
+   "id": "s59",
+   "name": "Тёмная живопись, взрослые лица",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "1.1::tenriblu::, high complexity, 1.0::Masterpiece, best quality, amazing quality, highres, high quality, very aesthetic, 0.8::painterly::, detailed clothes, detailed face::, 0.7::artist:ramsrar::, 0.3::artist:m_m_pb::, 0.8::artist:denpa0304 ::, 0.6::artist:en_(e898n)::, artist:dang0_23, 0.8::artist:suzumi (ccroquette)::, 1.5::artist:zero q 0q ::, year 2024, year 2025, year 2026, oekaki, adult faces, Artist:chokopaii, 1.0::artist:teeniika::, clean, natural colors"
+  },
+  {
+   "id": "s60",
+   "name": "Живопись, ночной город, oekaki",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "high complexity, masterpiece, best quality, amazing quality, highres, very aesthetic, painterly, detailed face, 0.7::artist:ramsrar::, 0.3::artist:m_m_pb::, 0.8::artist:denpa0304 ::, 0.6::artist:en_(e898n)::, artist:dang0_23, 0.8::artist:suzumi (ccroquette)::, 0.5::artist:zero q 0q ::, year 2025, oekaki, -2::unfinished::, 1.7::artist:suzumi_(ccroquette)::,0.2::artist:n_sol::, absurdres, year 2026, artist:dang0 23, 1.2::artist:faxparduo::, 0.8::artist:aransmind::, artist::east_100, artist:angrymiloras"
+  },
+  {
+   "id": "s61",
+   "name": "Мягкий семи-риал, золотой свет",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "0.65::artist:mian_lang::,year 2026, hbd 1025,0.8::wanke::, faxparduo, 0.8::aoma xuanzexuexi::, 0.5::kcllzas163 ::, 0.9::artist:11114tai::,artist:xbsx,0.25::artist:solarsistim::"
+  },
+  {
+   "id": "s62",
+   "name": "Живопись, манхва-панели, тёплый",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "1.2::artist:teeniika::, 1.1::chokopaii::, high complexity, masterpiece, best quality, amazing quality, highres, very aesthetic, painterly, detailed face, 0.7::artist:ramsrar::, 0.3::artist:m_m_pb::, 0.8::artist:denpa0304 ::, 0.6::artist:en_(e898n)::, artist:dang0_23, 0.8::artist:suzumi (ccroquette)::, 0.5::artist:zero q 0q ::, year 2025, oekaki, -2::unfinished::, 1.7::artist:suzumi_(ccroquette)::, 0.2::artist:n_sol::, absurdres, year 2026, artist:dang0 23, 1.2::artist:faxparduo::, 0.8::artist:aransmind::, artist::east_100, artist:angrymiloras"
+  },
+  {
+   "id": "s63",
+   "name": "Вайфу, софт, пастель",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "0.5::artist:daimaou ruaeru::, 1::artist:suzumi_(ccroquette)::, 0.2::artist:n_sol::, very aesthetic, absurdres, year 2026, artist:dang0 23, 1.2::artist:faxparduo::, 0.8::artist:aransmind::, artist::east_100, 0.8::photorealistic::, artist:angrymiloras, muted colors, pale colors"
+  },
+  {
+   "id": "s64",
+   "name": "Живопись, реалистичная кожа, бледная пастель",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "high complexity, masterpiece, best quality, amazing quality, highres, very aesthetic, painterly, detailed face, 0.7::artist:ramsrar::, 0.3::artist:m_m_pb::, 0.8::artist:denpa0304 ::, 0.6::artist:en_(e898n)::, artist:dang0_23, 0.8::artist:suzumi (ccroquette)::, 0.5::artist:zero q 0q ::, year 2025, oekaki, -2::unfinished::, 1.7::artist:suzumi_(ccroquette)::,0.2::artist:n_sol::, absurdres, year 2026, artist:dang0 23, 1.2::artist:faxparduo::, 0.8::artist:aransmind::, artist::east_100, artist:angrymiloras ::, 1.2::eye bags::, double eyelids, realistic eyes, small iris, detailed iris, realistic nose, nose bridge, philtrum, natural fully lips, 1.4::handsome people::, slim build, 1.3::messy hair::, flyaway hairs, 1.4::skin texture::, skin pores, uneven skin tone, skin redness, flushed nose, red eyelids, backlighting, sunlight, cold haze, washed out colors, desaturated, pastel palette, low contrast, film grain, cinematic close-up, 1.3::sharp focus::, 1.2::absurdres::, highres, intricate details, crisp details, detailed skin texture, detailed hair strands, defined edges, clear facial features"
+  },
+  {
+   "id": "s65",
+   "name": "Семи-риал, кино-свет, зерно",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "1.5::lyusiola::, 1.1::tenriblu::, high complexity, 1.0::Masterpiece, best quality, amazing quality, highres, high quality, very aesthetic, 0.8::painterly::, detailed clothes, detailed face::, 0.7::artist:ramsrar::, 0.3::artist:m_m_pb::, 0.8::artist:denpa0304 ::, 0.6::artist:en_(e898n)::, artist:dang0_23, 0.8::artist:suzumi (ccroquette)::, 1.5::artist:zero q 0q ::, year 2024, year 2025, year 2026, oekaki, adult faces, Artist:chokopaii, 1.4::artist:haze_(ohw8g)::, realistic, semi-realistic, realistic proportions, realistic facial features, detailed skin texture, depthness, 1.5::natural lighting, film grain, cinematic color, grading::, best_quality, ultra_detail, volumetric_shadow, sharp_focus, perspective, cinematic_filter, photorealistic_background, depth_of_field, 2::realistic anatomy::, 1.2::naohiro_ito::, 0.65::au_(d_elete)::, high contrast"
+  },
+  {
+   "id": "s66",
+   "name": "Корейский романтический вебтун, розовый",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "korean romance webtoon, 1.1::artist:nnk (nongnong) ::, 1.5::artist:juneseo ::, 1.2::artist:uzcoco_66 ::, 0.9::dang0_23 ::, 0.8::muksal::, 1.0::artist:en_(e898n) ::, 0.9::artist:marceline2174 ::, 0.7::artist:nyugi0v0 ::, 2026 years, masterpiece, best quality, very aesthetic, highly detailed, 1.0::painterly rendering::, 1.3::subtle blush::, 1.5::glossy hair highlights::, 1.3::soft skin shading::, 0.9::sparkling details::, 2::handsome man, realistic lips, aegyo sal :: , detailed face, realistic eyes, natural fully lips, 1.4::handsome people:: , flyaway hairs, 1.4::skin texture::, skin pores, highres, intricate details, crisp details, detailed skin texture, detailed hair strands, defined edges, clear facial features, 0.6::anime coloring::, colored lineart, pastel colors, 0.6::pink theme::, light blush, sparkle, manhwa style, manhwa effect, 0.6::heart::, 0.5::star (symbol)::, 0.4::arrow (symbol)::, 0.4::squiggle::, 0.4::spoken heart::, 0.5::chibi inset::, cute hand-drawn doodles around the characters: little hearts, stars, arrows and tiny chibi faces"
+  },
+  {
+   "id": "s67",
+   "name": "Тёмный корейский вебтун, гангстеры",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "dark korean webtoon, gangster manhwa, 1.2::artist:faxparduo ::, 0.5::artist:juneseo ::, 0.9::artist:nnk (nongnong) ::, 1.0::artist:en (e898n) ::, 1.2::artist:dang0 23 ::, year 2026, colored lineart, 0.8::painterly rendering ::, 1.2::dramatic lighting ::, chiaroscuro, high contrast, 1.1::muted colors ::, limited palette, dark, shadow, detailed face, clear facial features, beautiful well-proportioned face, nose, lips, realistic eyes, 1.2::handsome people ::, 1.2::adult ::, 0.8::skin texture ::, flyaway hair, detailed hair strands, night, city lights, 0.6::neon lights ::, 0.4::rain ::, 0.5::smoke ::, best quality, highres, highly detailed, crisp details, defined edges, high complexity"
+  },
+  {
+   "id": "s68",
+   "name": "Мульт в духе Hazbin, красно-розовый",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "1.2::artist:vivziepop::, hazbin hotel, helluva boss, official art, year 2025, year 2026, -2::logo, watermark, signature, twitter username, patreon logo::"
+  },
+  {
+   "id": "s69",
+   "name": "K-beauty семи-риал, розово-золотой блеск",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "1.7::artist:baichuan_baichuan ::, 1.4::artist:yujin_hare ::, 0.55::artist:evodtonaeco ::, 1.3::artist:amuii ::, 1.2::artist:baicumikuo ::, 1.2::artist:chococurrent ::, year 2026, high complexity, masterpiece, best quality, amazing quality, highres, very aesthetic, painterly, detailed face, double eyelids, realistic eyes, small iris, detailed iris, realistic nose, nose bridge, philtrum, natural fully lips, 1.4::handsome people::, slim build, 1.3::messy hair::, flyaway hairs, 1.4::skin texture::, skin pores, uneven skin tone, red eyelids, desaturated, pastel palette, low contrast, film grain, cinematic close-up, 1.3::sharp focus::, 1.2::absurdres::, highres, intricate details, crisp details, detailed skin texture, detailed hair texture, 1.5::detailed hair strands ::, defined edges, clear facial features, 1.0::semi-realistic::, matte skin, soft blush, soft eyelids, korean beauty, stylish under-eyes, thick eyelashes, puffy lips, soft lips, glossy hairs , loose hair strands, detailed background, soft lighting, style clothing, stylish fashion, stylish hairstyles, 1.5::shine ::, model style, detailed background, aegyo sal, fashion clothing, 1.5::pink theme ::, 1.7::gold theme ::, Glitter, Star effect, magic effect"
+  },
+  {
+   "id": "s70",
+   "name": "Манхва, толстая чёрная линия, плоский цвет",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "1.1::muksal::, dang0_23, 0.7::artist:daeho cha::, 0.3::scarlet_beriko::, 1.4::manhwa (style), korean webtoon::, 1.4::thick lineart, black lineart, smooth lineart::, clean lineart, variable line width, flat color, fully colored, cel shading, hard shadows, 0.7::light shadows::, 1.2::smooth skin::, pale skin, light skin, light blush, 1.2::pink lips::, colored lips, 1.2::large irises::, black pupils, 1.3::eye highlight::, white highlight, single highlight, simple eyes, relaxed eyes, calm, light eyelashes, 1.4::thin eyebrows::, light eyebrows, sharp jawline, sharp chin, smooth hair, clumped hair, flat hair shading, simple hair, curved hair strands, 0.8::soft colors::, blurry background, male focus, masterpiece, best quality"
+  },
+  {
+   "id": "s71",
+   "name": "Пастельная акварель, кукольные глаза",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "1.3::artist:kitunegasak::, 0.8::pastel colors::, soft colors, pink theme, 1.2::watercolor (medium)::, soft brush, blotchy, painterly, soft lineart, grey lineart, thin lineart, flat color, simple shading, 1.1::color contrast::, deep colors, dark accents, rich colors, rounded shapes, white skin, black eyes, large eyes, empty eyes, lower eyelashes, expressionless, blurry background, halftone, very aesthetic, masterpiece, best quality, absurdres, year 2025, highres"
+  },
+  {
    "id": "umwti2xai",
    "name": "добавить нада",
    "model": "v5",
