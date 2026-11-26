@@ -585,6 +585,14 @@ window.LIB = {
    "drawn": "v5",
    "house": false,
    "tags": "0.9::pururu ru6 ::, 0.7::maegjuw::, 0.8::itslopezz::, year 2026, 0.8::wiistef::, iotaectoplasm, 0.6::dashingicecream::, steemyart, wickesdt, soft colours, sharp_focus"
+  },
+  {
+   "id": "umwxz8k8r",
+   "name": "artist: dethmaid",
+   "model": "any",
+   "drawn": "v5",
+   "house": false,
+   "tags": "artist: dethmaid"
   }
  ]
 };
