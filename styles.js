@@ -617,6 +617,14 @@ window.LIB = {
    "drawn": "v5",
    "house": false,
    "tags": "artist:wickesdt"
+  },
+  {
+   "id": "umwy0alv6",
+   "name": "красным",
+   "model": "any",
+   "drawn": "v5",
+   "house": false,
+   "tags": "2::dynamic perspective, dynamic::, shushing"
   }
  ]
 };
