@@ -593,6 +593,14 @@ window.LIB = {
    "drawn": "v5",
    "house": false,
    "tags": "artist: dethmaid"
+  },
+  {
+   "id": "umwxzyrv0",
+   "name": "лемон",
+   "model": "any",
+   "drawn": "v5",
+   "house": false,
+   "tags": "lemon89h, 0.5:🧑‍🎨zero q 0q ::, year 2025, oekaki, -2::unfinished::, 1.7:🧑‍🎨suzumi_(ccroquette)::, 0.2:🧑‍🎨n_sol::, absurdres, year 2026, artist:dang0 23, 1.2:🧑‍🎨faxparduo::, 0.8:🧑‍🎨aransmind::, artist::east_100, artist:angrymiloras, sun glints"
   }
  ]
 };
