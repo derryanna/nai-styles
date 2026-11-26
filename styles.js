@@ -576,7 +576,7 @@ window.LIB = {
    "model": "v5",
    "drawn": "v5",
    "house": false,
-   "tags": "0.85::sasha khmel::, 1.0::en (e898n) ::, 0.4::quilm::, 0.7::lart_art1 ::, 0.7::cuso4 suiwabutu ::, sanbonzakura, 0.5::zero_q_0q ::, muted colors, masterpiece, best quality, highly detailed, absurdres, defined anatomy, very aesthetic, 1.5::cinematic filter::, masterpiece, best quality, very aesthetic, clean lineart, clean coloring, sharp focus, 0.9::teeniika::, photorealistic, kaleidoscopic color accent, cyberpunk pastel,0.6::heart::, 0.5::star (symbol)::, 0.4::arrow (symbol)::, 0.4::squiggle::, 0.4::spoken heart::, cute hand-drawn doodles around the characters: little hearts, stars, arrows and tiny chibi faces, 0.5::chibi inset::, 0.5::star (symbol)::, 0.4::arrow (symbol)::, 0.4::squiggle::, 0.4::spoken heart::, 0.5::chibi inset::, cute hand-drawn doodles around the characters: little hearts, stars, arrows and tiny chibi faces"
+   "tags": "0.85::sasha khmel::, 1.0::en (e898n) ::, 0.4::quilm::, 0.7::lart_art1 ::, 0.7::cuso4 suiwabutu ::, sanbonzakura, 0.5::zero_q_0q ::, muted colors, masterpiece, best quality, highly detailed, absurdres, defined anatomy, very aesthetic, 1.5::cinematic filter::, clean lineart, clean coloring, sharp focus, 0.9::teeniika::, photorealistic, kaleidoscopic color accent, cyberpunk pastel, 0.6::heart::, 0.5::star (symbol)::, 0.4::arrow (symbol)::, 0.4::squiggle::, 0.4::spoken heart::, 0.5::chibi inset::, cute hand-drawn doodles around the characters: little hearts, stars, arrows and tiny chibi faces"
   },
   {
    "id": "umwti2xai",
