@@ -609,6 +609,14 @@ window.LIB = {
    "drawn": "v5",
    "house": false,
    "tags": "runa (nori31291404)"
+  },
+  {
+   "id": "umwy07twr",
+   "name": "artist:wickesdt",
+   "model": "any",
+   "drawn": "v5",
+   "house": false,
+   "tags": "artist:wickesdt"
   }
  ]
 };
