@@ -2193,6 +2193,66 @@ window.LIB = {
    "kinds": []
   },
   {
+   "id": "s178",
+   "name": "Глитч-закат · без Кореи",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "0.85::sasha khmel::, 1.0::en (e898n) ::, 0.4::quilm::, 0.7::lart_art1 ::, 0.7::cuso4 suiwabutu ::, sanbonzakura, 0.5::zero_q_0q ::, 0.9::teeniika::, year 2026, masterpiece, best quality, very aesthetic, highly detailed, absurdres, highres, intricate details, crisp details, defined anatomy, 1.1::glossy hair highlights::, 1.0::soft skin shading::, 1.0::subtle blush::, 1.0::handsome people, realistic lips ::, detailed face, realistic eyes, 1.1::skin texture::, flyaway hairs, detailed hair strands, clear facial features, 1.3::cinematic filter::, clean coloring, sharp focus, 2::incredibly thick black outlines with digital static::, blurred edges, glitched sunset, the sky is made from jpeg artifacts, 0.75::stardust droplets::, 1.0::high contrast::, vivid saturated colors, 0.8::forced perspective::",
+   "k": "b4c69b6f37",
+   "kinds": [
+    "Манхва"
+   ]
+  },
+  {
+   "id": "s179",
+   "name": "Синяя меланхолия · без Кореи",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "0.85::sasha khmel::, 1.0::en (e898n) ::, 0.4::quilm::, 0.7::lart_art1 ::, 0.7::cuso4 suiwabutu ::, sanbonzakura, 0.5::zero_q_0q ::, 0.9::teeniika::, year 2026, masterpiece, best quality, very aesthetic, highly detailed, absurdres, highres, intricate details, crisp details, defined anatomy, 1.1::glossy hair highlights::, 1.0::soft skin shading::, 1.0::subtle blush::, 1.0::handsome people, realistic lips ::, detailed face, realistic eyes, 1.1::skin texture::, flyaway hairs, detailed hair strands, clear facial features, 1.3::cinematic filter::, clean coloring, sharp focus, 1.2::blue theme::, ethereal, floating hair, long eyelashes, detailed eyes, lingering gaze, 0.8::sad soft eyes::, dramatic lighting, dark background, 0.8::hair focus::, -0.6::pink theme::",
+   "k": "6a88df5ac8",
+   "kinds": [
+    "Манхва"
+   ]
+  },
+  {
+   "id": "s180",
+   "name": "Стикер-сплэш · без Кореи",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "0.85::sasha khmel::, 1.0::en (e898n) ::, 0.4::quilm::, 0.7::lart_art1 ::, 0.7::cuso4 suiwabutu ::, sanbonzakura, 0.5::zero_q_0q ::, 0.9::teeniika::, year 2026, masterpiece, best quality, very aesthetic, highly detailed, absurdres, highres, intricate details, crisp details, defined anatomy, 1.1::glossy hair highlights::, 1.0::soft skin shading::, 1.0::subtle blush::, 1.0::handsome people, realistic lips ::, detailed face, realistic eyes, 1.1::skin texture::, flyaway hairs, detailed hair strands, clear facial features, 1.3::cinematic filter::, clean coloring, sharp focus, 1.2::white outline::, sticker, 1.1::splatter background::, simple background, 0.8::purple theme::, 0.8::pink theme::, atmospheric perspective, 0.8::dynamic pose::",
+   "k": "0629445db7",
+   "kinds": [
+    "Манхва"
+   ]
+  },
+  {
+   "id": "s181",
+   "name": "Шариковая ручка · без Кореи",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "0.85::sasha khmel::, 1.0::en (e898n) ::, 0.4::quilm::, 0.7::lart_art1 ::, 0.7::cuso4 suiwabutu ::, sanbonzakura, 0.5::zero_q_0q ::, 0.9::teeniika::, year 2026, masterpiece, best quality, very aesthetic, highly detailed, absurdres, highres, intricate details, crisp details, defined anatomy, 1.1::glossy hair highlights::, 1.0::soft skin shading::, 1.0::subtle blush::, 1.0::handsome people, realistic lips ::, detailed face, realistic eyes, 1.1::skin texture::, flyaway hairs, detailed hair strands, clear facial features, 1.3::cinematic filter::, clean coloring, sharp focus, 0.7::blue::, 0.7::red::, 0.7::purple::, ballpen (medium), 3::anime pastel colour::, 2::thick black outline::, 1.3::detailed eyes::, blurred edges outlines with digital static, dynamic depth of field, 1.5::water droplets::",
+   "k": "86c555949c",
+   "kinds": [
+    "Манхва"
+   ]
+  },
+  {
+   "id": "s182",
+   "name": "Ар-нуво · без Кореи",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "0.85::sasha khmel::, 1.0::en (e898n) ::, 0.4::quilm::, 0.7::lart_art1 ::, 0.7::cuso4 suiwabutu ::, sanbonzakura, 0.5::zero_q_0q ::, 0.9::teeniika::, year 2026, masterpiece, best quality, very aesthetic, highly detailed, absurdres, highres, intricate details, crisp details, defined anatomy, 1.1::glossy hair highlights::, 1.0::soft skin shading::, 1.0::subtle blush::, 1.0::handsome people, realistic lips ::, detailed face, realistic eyes, 1.1::skin texture::, flyaway hairs, detailed hair strands, clear facial features, 1.3::cinematic filter::, clean coloring, sharp focus, ultra complexity, lithography, art nouveau, digital illustration, gradient shading, clear coloring, 1.0::high contrast::, soft painting, thin outlines, 0.7::muted colors::, 0.6::vintage::, 0.6::ornate frame::, -0.6::pink theme::",
+   "k": "0f312b4c98",
+   "kinds": [
+    "Манхва"
+   ]
+  },
+  {
    "id": "umwti2xai",
    "name": "добавить нада",
    "model": "v5",
