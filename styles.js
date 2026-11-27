@@ -649,6 +649,14 @@ window.LIB = {
    "drawn": "v5",
    "house": false,
    "tags": "artist:xuedaixun, artist:ibuki_satsuki, artist:ruoganzhao, artist:reluvy, artist:yoneyama_mai, artist:mizumi_zumi, 0.6::(artist:zhibuji loom, artist:mont_blanca, artist:lam_(ramdayo), artist:kei (keiuu), artist:remsrar, artist:syokumura)::, 1.2::(artist:iumu, artist:ezu_(e104mjd), artist:ham melon (iloha 24))::, year 2025, -2::artist collaboration, split screens::"
+  },
+  {
+   "id": "umwyovvgo",
+   "name": "тест",
+   "model": "any",
+   "drawn": "v5",
+   "house": false,
+   "tags": "gomzi,[[[[deyui::,tianliang duohe fangdongye, wanke, 0.5::kaede (sayappa)::, [[ruzhai::, [[[[riichu]]]],tsukishiro yuki"
   }
  ]
 };
