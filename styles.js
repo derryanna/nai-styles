@@ -1433,6 +1433,14 @@ window.LIB = {
    "drawn": "v5",
    "house": false,
    "tags": "<artist> 0.8::artist:yoneyama mai::, 0.7::artist:ciloranko::, 0.5::artist:doremi (doremi4704):: </artist>, <style> year 2026, year 2025, anime coloring, anime screenshot, -1.2::flat color::, 0.3::3d::, 0.4::flim grain::, 2d, lens flare, depthness, chromatic aberration, animated, promotional art, {{{volumetric lighting, depth of field, best quality, amazing quality, very aesthetic, highres, incredibly absurdres}}}, {colorful}, ultra complexity, very aesthetic, best illustration, novel illustration, masterpiece, -2::artist collaboration::, -1::simple illustration::, no text </style>"
+  },
+  {
+   "id": "umwys4umi",
+   "name": "хз2",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "realistic, jaggy lines, abstract, 1.5::game cg, film grain, artist:solipsist, artist:croriin::, 1::aritst:ie (raarami), artist:teshima nari, artist:Mx2J::, 1::artist:sparrowl, artist:yoneyama mai, artist:hiro (dismaless)::, 0.7::artist:nonco, artist:sohn woohyoung::, 0.8::artist:inoue kiyoshirou, artist:mika pikazo, artist:john kafka, artist:lonklink::, 1::artist:sarcophage, artist:chomoran:: year 2026, year 2025, year 2024, 1::no text::, -1::flat color::, -1::text::, -2::shiny skin::, -3::artist collaboration, simple illustration::, detailed skin texture, incredibly absurdres, novel illustration, best illustration, photorealistic, detailed shading, amazing quality, anime coloring, expert shading, very aesthetic, high detailed, pastel colors, best quality, masterpiece, glossy skin, year 2026, year 2025, year 2024, highres"
   }
  ]
 };

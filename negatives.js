@@ -78,6 +78,14 @@ window.NEG = {
     "umwys46d6"
    ],
    "text": "worst quality, bad quality, very displeasing, displeasing, lowres, error, artistic error, bad, bad anatomy, bad perspective, bad proportions, bad aspect ratio, bad face, bad teeth, bad neck, bad arm, bad hands, bad ass, bad leg, bad feet, bad reflection, bad shadow, bad link, bad source, fewer, fewer digits, extra, extra faces, extra eyes, extra eyebrows, extra mouth, extra tongue, extra teeth, extra ears, extra breasts, extra arms, extra hands, extra legs, extra digits, missing, missing limb, missing eye, missing tooth, missing ear, missing finger, wrong, wrong hand, wrong feet, mismatched pupils, mutation, deformed, disfigured, unfinished, jpeg artifacts, watermark, scan, scan artifacts, signature, artist name, username, artist logo, logo, pov, official art, official style, artist:bb (baalbuddy), artist:bkub, artist:gaoo (frpjx283), artist:milkpanda, artist:nameo (judgemasterkou), artist:yuno3853, ai-generated"
+  },
+  {
+   "id": "nmwys4umj",
+   "name": "К стилю «хз2»",
+   "styles": [
+    "umwys4umi"
+   ],
+   "text": "bar censor, nude, censored, {crotchless}, {bad}, error, fewer, extra, missing, worst quality, jpeg artifacts, bad quality, watermark, unfinished, displeasing, chromatic aberration, signature, extra digits, artistic error, username, scan, panties, [abstract], bad anatomy, bad hands, @_@, mismatched pupils, {cubism}, {worst quality}, {normal quality}, {bad quality}, {{{{unskillful}}}}, {unfinished}, {incomplete}, {{failure}}, {inferior}, {terrifying}, {haunting}, {bad joint}, {monster}, {ugly}, {retro artstyle}, {key}, low quality, disfigured, poorly drawn, deformed, mutation, fused fingers, fused limb, extra limb, missing fingers, missing limb, missing digit, missing legs, disappearing arms, extra limbs, aged up, old, long neck, long body, rib, dusty sunbeams, depth of field, bokeh, out of focus, blurry, text, title, breast apart, lineart, dithering, dark areolae, simple illustration, 3::anatomical nonsense::, upscaled, fewer details, incomplete, cheesy, unsatisfactory, inadequate, deficient, subpar, poor, scan artifacts, 1::multiple views::"
   }
  ]
 };
