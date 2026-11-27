@@ -625,6 +625,30 @@ window.LIB = {
    "drawn": "v5",
    "house": false,
    "tags": "2::dynamic perspective, dynamic::, shushing"
+  },
+  {
+   "id": "umwyon54h",
+   "name": "пиксельарт",
+   "model": "any",
+   "drawn": "v5",
+   "house": false,
+   "tags": "2.0::pixel art, dithering ::, 1.0::aduare ::, 0.7::artist:Nia (0122) ::, 0.6::namako daibakuhatsu ::, 0.76::healthyman ::, 1.5::artist:ryuuforkaf ::, 1.4::artist:nao_(syn_eaa) ::, 1.1::2n5 ::, 0.8::artist:teshima_nari ::, 1.5::kezime ::, jaggy lines, realistic, -2::artist collaboration ::"
+  },
+  {
+   "id": "umwyon55w",
+   "name": "какбудта может понравится госпоже",
+   "model": "any",
+   "drawn": "v5",
+   "house": false,
+   "tags": "2::realistic background, high complexity, artist:gorgeous_mushroom, {artist:ask (askzy)}, artist:misaka12003, artist:remana, {artist:sohn woohyoung}::, year 2026, -2::yellowish, unnatural yellow, overexposed warm tones::"
+  },
+  {
+   "id": "umwyon57b",
+   "name": "вода водой",
+   "model": "any",
+   "drawn": "v5",
+   "house": false,
+   "tags": "artist:xuedaixun, artist:ibuki_satsuki, artist:ruoganzhao, artist:reluvy, artist:yoneyama_mai, artist:mizumi_zumi, 0.6::(artist:zhibuji loom, artist:mont_blanca, artist:lam_(ramdayo), artist:kei (keiuu), artist:remsrar, artist:syokumura)::, 1.2::(artist:iumu, artist:ezu_(e104mjd), artist:ham melon (iloha 24))::, year 2025, -2::artist collaboration, split screens::"
   }
  ]
 };
