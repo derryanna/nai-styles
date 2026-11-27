@@ -30,6 +30,14 @@ window.NEG = {
     "umwyon57b"
    ],
    "text": "nsfw, lowres, artistic error, film grain, scan artifacts, worst quality, bad quality, jpeg artifacts, very displeasing, chromatic aberration, dithering, halftone, screentone, multiple views, logo, too many watermarks, negative space, blank page, bar censor, nude, censored, {crotchless}, {bad}, error, fewer, extra, missing, watermark, unfinished, displeasing, signature, extra digits, username, scan, panties, [abstract], bad anatomy, bad hands, @_@, mismatched pupils, {cubism}, {worst quality}, {normal quality}, {bad quality}, {{{{unskillful}}}}, {unfinished}, {incomplete}, {{failure}}, {inferior}, {terrifying}, {haunting}, {bad joint}, {monster}, {ugly}, {retro artstyle}, {key}, low quality, disfigured, poorly drawn, deformed, mutation, fused fingers, fused limb, extra limb, missing fingers, missing limb, missing digit, missing legs, disappearing arms, extra limbs, aged up, old, long neck, long body, rib, dusty sunbeams, depth of field, bokeh, out of focus, blurry, text, title, breast apart, lineart, dark areolae, simple illustration, 3::anatomical nonsense::, upscaled, fewer details, incomplete, cheesy, unsatisfactory, inadequate, deficient, subpar, poor, 2::artist collaboration, chibi::"
+  },
+  {
+   "id": "nmwyrwixv",
+   "name": "К стилю «Mimoza · прохладный HDR»",
+   "styles": [
+    "umwyrwixu"
+   ],
+   "text": "lowres, artistic error, film grain, scan artifacts, worst quality, bad quality, jpeg artifacts, very displeasing, chromatic aberration, dithering, halftone, screentone, multiple views, logo, too many watermarks, negative space, blank page, {bad}, error, fewer, extra, missing, watermark, unfinished, displeasing, signature, extra digits, username, scan, [abstract], bad anatomy, bad hands, @_@, mismatched pupils, {cubism}, {worst quality}, {normal quality}, {bad quality}, {{{{unskillful}}}}, {unfinished}, {incomplete}, {{failure}}, {inferior}, {terrifying}, {haunting}, {bad joint}, {monster}, {ugly}, {retro artstyle}, {key}, low quality, disfigured, poorly drawn, deformed, mutation, fused fingers, fused limb, extra limb, missing fingers, missing limb, missing digit, missing legs, disappearing arms, extra limbs, aged up, old, long neck, long body, rib, dusty sunbeams, depth of field, bokeh, out of focus, blurry, text, title, lineart, simple illustration, 3::anatomical nonsense::, upscaled, fewer details, incomplete, cheesy, unsatisfactory, inadequate, deficient, subpar, poor"
   }
  ]
 };
