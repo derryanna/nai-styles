@@ -665,6 +665,14 @@ window.LIB = {
    "drawn": "v5",
    "house": false,
    "tags": "0.9:🧑‍🎨toma (toma50)::, artist:iuui, 1.5:🧑‍🎨92m::, 1.1:🧑‍🎨ikeuchi tanuma::, 1.8:🧑‍🎨mery (yangmalgage)::"
+  },
+  {
+   "id": "umwyqcqh5",
+   "name": "мультики",
+   "model": "any",
+   "drawn": "v5",
+   "house": false,
+   "tags": "artist:soreeyu_(sore-yu), artist:invaderdarling, 0.8:🧑‍🎨kerberos_(kerbe_)::, 0.5:🧑‍🎨amatou_akuma::, 0.2:🧑‍🎨hanavbara::"
   }
  ]
 };
