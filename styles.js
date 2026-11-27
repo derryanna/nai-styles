@@ -2053,6 +2053,56 @@ window.LIB = {
    ]
   },
   {
+   "id": "s165",
+   "name": "Дерри-дудл · ведьмин",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "0.85::sasha khmel::, 1.0::en (e898n) ::, 0.4::quilm::, 0.7::lart_art1 ::, 0.7::cuso4 suiwabutu ::, sanbonzakura, 0.5::zero_q_0q ::, 0.9::teeniika::, 0.6::artist:juneseo ::, 0.5::artist:nnk (nongnong) ::, 0.5::artist:uzcoco_66 ::, 0.4::artist:songjikyo ::, 0.5::korean romance webtoon::, 0.5::manhwa style::, year 2026, masterpiece, best quality, very aesthetic, highly detailed, absurdres, highres, intricate details, crisp details, defined anatomy, 1.2::glossy hair highlights::, 1.2::soft skin shading::, 1.1::subtle blush::, 0.8::painterly rendering::, 1.3::handsome people, realistic lips, aegyo sal ::, detailed face, realistic eyes, 1.2::skin texture::, flyaway hairs, detailed hair strands, defined edges, clear facial features, 1.5::cinematic filter::, clean lineart, clean coloring, sharp focus, photorealistic, kaleidoscopic color accent, 1.2::dark theme::, 1.0::dark purple background::, 0.9::deep purple::, 0.9::green glow::, 0.7::acid green accents::, 1.0::high contrast::, 0.7::chiaroscuro::, 0.6::dark fantasy::, dark background, -0.8::pastel colors::, -0.8::pink theme::, 0.5::star (symbol)::, 0.5::crescent moon::, 0.5::bat (animal)::, 0.4::squiggle::, 0.5::chibi inset::, cute hand-drawn doodles around the characters: little moons, stars, bats and tiny chibi faces, 0.6::sparkle::",
+   "k": "3d91c52e86",
+   "kinds": [
+    "Мульт"
+   ]
+  },
+  {
+   "id": "s166",
+   "name": "Дерри-дудл · хоррор",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "0.85::sasha khmel::, 1.0::en (e898n) ::, 0.4::quilm::, 0.7::lart_art1 ::, 0.7::cuso4 suiwabutu ::, sanbonzakura, 0.5::zero_q_0q ::, 0.9::teeniika::, 0.6::artist:juneseo ::, 0.5::artist:nnk (nongnong) ::, 0.5::artist:uzcoco_66 ::, 0.4::artist:songjikyo ::, 0.5::korean romance webtoon::, 0.5::manhwa style::, year 2026, masterpiece, best quality, very aesthetic, highly detailed, absurdres, highres, intricate details, crisp details, defined anatomy, 1.2::glossy hair highlights::, 1.2::soft skin shading::, 1.1::subtle blush::, 0.8::painterly rendering::, 1.3::handsome people, realistic lips, aegyo sal ::, detailed face, realistic eyes, 1.2::skin texture::, flyaway hairs, detailed hair strands, defined edges, clear facial features, 1.5::cinematic filter::, clean lineart, clean coloring, sharp focus, photorealistic, kaleidoscopic color accent, 1.3::dark theme::, 1.1::red theme::, 1.0::black background::, 0.9::limited palette::, 1.0::high contrast::, 0.8::horror (theme)::, 0.7::creepy::, 0.6::red glow::, 0.6::dramatic shadows::, 0.5::vignette::, 0.5::film grain::, -0.8::pastel colors::, -0.8::pink theme::, 0.5::skull (symbol)::, 0.4::ghost::, 0.4::dripping::, 0.4::squiggle::, 0.5::chibi inset::, creepy hand-drawn doodles around the characters: little skulls, ghosts, bats, drips and tiny chibi faces, 0.4::sparkle::",
+   "k": "450c65ef7e",
+   "kinds": [
+    "Мульт"
+   ]
+  },
+  {
+   "id": "s167",
+   "name": "Дерри-дудл · неон-ночь",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "0.85::sasha khmel::, 1.0::en (e898n) ::, 0.4::quilm::, 0.7::lart_art1 ::, 0.7::cuso4 suiwabutu ::, sanbonzakura, 0.5::zero_q_0q ::, 0.9::teeniika::, 0.6::artist:juneseo ::, 0.5::artist:nnk (nongnong) ::, 0.5::artist:uzcoco_66 ::, 0.4::artist:songjikyo ::, 0.5::korean romance webtoon::, 0.5::manhwa style::, year 2026, masterpiece, best quality, very aesthetic, highly detailed, absurdres, highres, intricate details, crisp details, defined anatomy, 1.2::glossy hair highlights::, 1.2::soft skin shading::, 1.1::subtle blush::, 0.8::painterly rendering::, 1.3::handsome people, realistic lips, aegyo sal ::, detailed face, realistic eyes, 1.2::skin texture::, flyaway hairs, detailed hair strands, defined edges, clear facial features, 1.5::cinematic filter::, clean lineart, clean coloring, sharp focus, photorealistic, kaleidoscopic color accent, 1.2::dark theme::, 1.0::night::, 1.0::black background::, 0.9::neon lights::, 0.8::cyan theme::, 0.7::magenta::, 0.9::high contrast::, 0.7::backlighting::, 0.6::neon glow::, 0.6::cyberpunk::, -0.8::pastel colors::, 0.6::heart::, 0.5::star (symbol)::, 0.4::arrow (symbol)::, 0.4::squiggle::, 0.4::spoken heart::, 0.5::chibi inset::, glowing neon hand-drawn doodles around the characters: little hearts, stars, arrows and tiny chibi faces, 0.8::sparkle::",
+   "k": "b0a7fb44b0",
+   "kinds": [
+    "Мульт",
+    "Глянец",
+    "Тёмный"
+   ]
+  },
+  {
+   "id": "s168",
+   "name": "Дерри-дудл · нуар",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "0.85::sasha khmel::, 1.0::en (e898n) ::, 0.4::quilm::, 0.7::lart_art1 ::, 0.7::cuso4 suiwabutu ::, sanbonzakura, 0.5::zero_q_0q ::, 0.9::teeniika::, 0.6::artist:juneseo ::, 0.5::artist:nnk (nongnong) ::, 0.5::artist:uzcoco_66 ::, 0.4::artist:songjikyo ::, 0.5::korean romance webtoon::, 0.5::manhwa style::, year 2026, masterpiece, best quality, very aesthetic, highly detailed, absurdres, highres, intricate details, crisp details, defined anatomy, 1.2::glossy hair highlights::, 1.2::soft skin shading::, 1.1::subtle blush::, 0.8::painterly rendering::, 1.3::handsome people, realistic lips, aegyo sal ::, detailed face, realistic eyes, 1.2::skin texture::, flyaway hairs, detailed hair strands, defined edges, clear facial features, 1.5::cinematic filter::, clean lineart, clean coloring, sharp focus, photorealistic, kaleidoscopic color accent, 1.2::dark theme::, 1.0::monochrome::, 0.9::greyscale::, 1.0::partially colored::, 0.9::spot color::, 0.8::high contrast::, 0.7::film noir::, 0.6::dramatic shadows::, 0.5::film grain::, black and white with one red accent colour, -0.8::pastel colors::, -0.8::pink theme::, 0.6::heart::, 0.5::star (symbol)::, 0.4::arrow (symbol)::, 0.4::squiggle::, 0.4::spoken heart::, 0.5::chibi inset::, white chalk hand-drawn doodles around the characters: little hearts, stars, arrows and tiny chibi faces, 0.5::sparkle::",
+   "k": "e387203afb",
+   "kinds": [
+    "Мульт"
+   ]
+  },
+  {
    "id": "umwti2xai",
    "name": "добавить нада",
    "model": "v5",
