@@ -43,6 +43,15 @@
     cursor: zoom-out; z-index: 5; }
   #zoom img { max-width: 96vw; max-height: 96vh; border-radius: 10px; }
   #zoom.on { display: flex; }
+  .bar + .bar { margin-top: 8px; }
+  select.chip { appearance: none; -webkit-appearance: none; color: var(--text); }
+  .count { color: var(--dim); font-size: 13px; margin: 8px 0 0; }
+  .votes { display: flex; gap: 6px; }
+  button.vote { flex: 1; padding: 7px 6px; border-radius: 10px; border: 1px solid var(--line); background: transparent;
+    color: var(--dim); font: inherit; cursor: pointer; }
+  button.vote[aria-pressed="true"] { border-color: var(--accent); color: var(--text); background: #2b2436; }
+  .card.nope img { opacity: .35; }
+  .badge.kind { cursor: pointer; }
   @media (max-width: 520px) { main { grid-template-columns: repeat(2, 1fr); gap: 10px; padding: 10px; } .btns { flex-direction: column; } }
 </style>
 </head>
@@ -57,16 +66,31 @@
     <button class="chip" data-m="4.5">4.5</button>
     <a class="chip" href="negatives.html">Негативы →</a>
   </div>
+  <div class="bar" id="kinds"></div>
+  <div class="bar">
+    <button class="chip" id="mine" aria-pressed="false">Мои 👍</button>
+    <select class="chip" id="sort" aria-label="Сортировка">
+      <option value="">Как в библиотеке</option>
+      <option value="mine">Сначала мои 👍</option>
+      <option value="top" hidden>Что любит народ</option>
+    </select>
+  </div>
+  <p class="count" id="count"></p>
 </header>
 <main id="grid"></main>
 <div id="zoom"><img alt=""></div>
 <script src="styles.js"></script>
 <script src="negatives.js"></script>
+<script src="votes.js"></script>
 <script>
 (function () {
   var LIB = window.LIB || { styles: [] };
   var grid = document.getElementById('grid'), q = document.getElementById('q'), zoom = document.getElementById('zoom');
-  var model = '';
+  var model = '', kind = '', onlyMine = false, sortBy = '';
+  var MARKS_KEY = 'nai-styles:marks:v1';
+  // Общие лайки: адрес и ключ сервиса голосов лежат в votes.js. Пусто — на странице только личные лайки.
+  var VOTES = window.NAI_VOTES || { url: '', key: '' };
+  var marks = loadMarks(), totals = {};
   var MODEL_LABEL = { 'v5': 'V5', '4.5': '4.5', 'any': 'любая модель' };
   var NEG_OF = {};   // стиль → негатив, который идёт с ним в паре (страница negatives.html)
   ((window.NEG || {}).list || []).forEach(function (n) { (n.styles || []).forEach(function (id) { NEG_OF[id] = n.id; }); });
@@ -99,6 +123,64 @@
     t.remove();
   }
 
+  // --- личные лайки: только в этом браузере ---
+  function loadMarks() {
+    try {
+      var m = JSON.parse(localStorage.getItem(MARKS_KEY) || '{}'), out = {};
+      Object.keys(m || {}).forEach(function (k) { if (m[k] === 1 || m[k] === -1) out[k] = m[k]; });
+      return out;
+    } catch (e) { return {}; }
+  }
+  function saveMarks() { try { localStorage.setItem(MARKS_KEY, JSON.stringify(marks)); } catch (e) {} }
+  function keyOf(s) { return s.k || s.id; }
+
+  // --- общие лайки (если сервис подключён) ---
+  function voter() {
+    try {
+      var v = localStorage.getItem('nai-styles:voter');
+      if (!v) {
+        v = window.crypto && crypto.randomUUID ? crypto.randomUUID()
+          : 'xxxxxxxx-xxxx-4xxx-8xxx-xxxxxxxxxxxx'.replace(/x/g, function () { return (Math.random() * 16 | 0).toString(16); });
+        localStorage.setItem('nai-styles:voter', v);
+      }
+      return v;
+    } catch (e) { return null; }
+  }
+  function rpc(name, body) {
+    return fetch(VOTES.url + '/rest/v1/rpc/' + name, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json', apikey: VOTES.key, Authorization: 'Bearer ' + VOTES.key },
+      body: JSON.stringify(body || {})
+    }).then(function (r) { if (!r.ok) throw new Error('votes ' + r.status); return r.status === 204 ? null : r.json(); });
+  }
+  function loadTotals() {
+    if (!VOTES.url) return;
+    rpc('style_vote_counts').then(function (rows) {
+      totals = {};
+      (rows || []).forEach(function (r) { totals[r.style] = { up: r.likes || 0, down: r.dislikes || 0 }; });
+      document.querySelector('#sort option[value=top]').hidden = false;
+      draw();
+    }).catch(function () { /* сервис молчит — остаются личные лайки */ });
+  }
+  function sendVote(k, value) {
+    var v = voter();
+    if (!VOTES.url || !v) return;
+    rpc('style_vote', { p_voter: v, p_style: k, p_value: value }).catch(function () {});
+  }
+
+  function setMark(s, value) {
+    var k = keyOf(s), old = marks[k] || 0, now = old === value ? 0 : value;
+    if (now) marks[k] = now; else delete marks[k];
+    saveMarks();
+    var t = totals[k] || (totals[k] = { up: 0, down: 0 });   // число на карточке меняем сразу, сервис догонит
+    if (old === 1) t.up = Math.max(0, t.up - 1);
+    if (old === -1) t.down = Math.max(0, t.down - 1);
+    if (now === 1) t.up += 1;
+    if (now === -1) t.down += 1;
+    sendVote(k, now);
+    draw();
+  }
+
   function card(s) {
     var c = el('div', 'card');
     c.id = s.id;
@@ -114,7 +196,27 @@
     row.appendChild(el('span', 'badge', MODEL_LABEL[s.model] || s.model));
     if (s.model === 'any' && s.drawn) row.appendChild(el('span', 'badge', 'превью на ' + (MODEL_LABEL[s.drawn] || s.drawn)));
     if (s.house) row.appendChild(el('span', 'badge house', 'по умолчанию'));
+    (s.kinds || []).forEach(function (kd) {
+      var kb = el('span', 'badge kind', kd);
+      kb.title = 'Показать только «' + kd + '»';
+      kb.onclick = function () { setKind(kd); };
+      row.appendChild(kb);
+    });
     b.appendChild(row);
+    var k = keyOf(s), mine = marks[k] || 0, t = totals[k];
+    if (mine === -1) c.classList.add('nope');
+    var votes = el('div', 'votes');
+    var up = el('button', 'vote', '👍' + (VOTES.url && t && t.up ? ' ' + t.up : ''));
+    up.title = 'Нравится';
+    up.setAttribute('aria-pressed', String(mine === 1));
+    up.onclick = function () { setMark(s, 1); };
+    var down = el('button', 'vote', '👎');
+    down.title = 'Не нравится';
+    down.setAttribute('aria-pressed', String(mine === -1));
+    down.onclick = function () { setMark(s, -1); };
+    votes.appendChild(up);
+    votes.appendChild(down);
+    b.appendChild(votes);
     var btns = el('div', 'btns');
     var b1 = el('button', 'act', 'Название');
     b1.title = 'Скопировать название для /новелка';
@@ -144,22 +246,70 @@
     grid.textContent = '';
     var shown = LIB.styles.filter(function (s) {
       if (model && s.model !== model && s.model !== 'any') return false;
-      return !needle || (s.name + ' ' + s.tags).toLowerCase().indexOf(needle) >= 0;
+      if (kind && (s.kinds || []).indexOf(kind) < 0) return false;
+      if (onlyMine && marks[keyOf(s)] !== 1) return false;
+      return !needle || (s.name + ' ' + s.tags + ' ' + (s.kinds || []).join(' ')).toLowerCase().indexOf(needle) >= 0;
     });
+    if (sortBy) {
+      var order = {};
+      LIB.styles.forEach(function (s, i) { order[s.id] = i; });
+      var score = function (s) {
+        var k = keyOf(s);
+        if (sortBy === 'top') return totals[k] ? totals[k].up - totals[k].down : 0;
+        return marks[k] || 0;
+      };
+      shown.sort(function (a, b) { return score(b) - score(a) || order[a.id] - order[b.id]; });
+    }
     shown.forEach(function (s) { grid.appendChild(card(s)); });
-    if (!shown.length) grid.appendChild(el('div', 'empty', 'Ничего не нашлось.'));
+    if (!shown.length) {
+      grid.appendChild(el('div', 'empty', onlyMine ? 'Лайков пока нет: нажми 👍 на карточке.' : 'Ничего не нашлось.'));
+    }
+    document.getElementById('count').textContent = 'Стилей: ' + shown.length + ' из ' + LIB.styles.length;
   }
 
+  function setKind(kd) {
+    kind = kind === kd ? '' : kd;
+    Array.prototype.forEach.call(document.querySelectorAll('#kinds .chip'), function (x) {
+      x.classList.toggle('on', x.getAttribute('data-k') === kind);
+    });
+    draw();
+  }
+
+  (function kindChips() {
+    var bar = document.getElementById('kinds'), have = {};
+    LIB.styles.forEach(function (s) { (s.kinds || []).forEach(function (kd) { have[kd] = (have[kd] || 0) + 1; }); });
+    var list = (LIB.kinds || Object.keys(have)).filter(function (kd) { return have[kd]; });
+    if (!list.length) { bar.hidden = true; return; }
+    var all = el('button', 'chip on', 'Все виды');
+    all.setAttribute('data-k', '');
+    all.onclick = function () { setKind(kind); };   // повторный выбор текущего вида снимает фильтр
+    bar.appendChild(all);
+    list.forEach(function (kd) {
+      var ch = el('button', 'chip', kd);
+      ch.setAttribute('data-k', kd);
+      ch.onclick = function () { setKind(kd); };
+      bar.appendChild(ch);
+    });
+  })();
+
   q.oninput = draw;
-  Array.prototype.forEach.call(document.querySelectorAll('button.chip'), function (ch) {
+  Array.prototype.forEach.call(document.querySelectorAll('button.chip[data-m]'), function (ch) {
     ch.onclick = function () {
       model = ch.getAttribute('data-m');
-      Array.prototype.forEach.call(document.querySelectorAll('button.chip'), function (x) { x.classList.toggle('on', x === ch); });
+      Array.prototype.forEach.call(document.querySelectorAll('button.chip[data-m]'), function (x) { x.classList.toggle('on', x === ch); });
       draw();
     };
   });
+  document.getElementById('mine').onclick = function () {
+    onlyMine = !onlyMine;
+    this.classList.toggle('on', onlyMine);
+    this.setAttribute('aria-pressed', String(onlyMine));
+    draw();
+  };
+  document.getElementById('sort').onchange = function () { sortBy = this.value; draw(); };
   zoom.onclick = function () { zoom.classList.remove('on'); };
   draw();
+  loadTotals();
   var hit = location.hash && document.getElementById(location.hash.slice(1));   // пришли со страницы негативов
   if (hit) { hit.classList.add('hit'); hit.scrollIntoView(); }
 })();
