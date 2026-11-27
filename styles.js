@@ -1377,6 +1377,14 @@ window.LIB = {
    "drawn": "v5",
    "house": false,
    "tags": "artist:soreeyu_(sore-yu), artist:invaderdarling, 0.8:🧑‍🎨kerberos_(kerbe_)::, 0.5:🧑‍🎨amatou_akuma::, 0.2:🧑‍🎨hanavbara::"
+  },
+  {
+   "id": "umwyrs455",
+   "name": "Корейский романтический вебтун, розовый, v2",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "korean romance webtoon, 1.1::artist:nnk (nongnong) ::, 1.5::artist:juneseo ::, 1.2::artist:uzcoco_66 ::, 0.9::dang0_23 ::, 0.8::muksal::, 1.0::artist:en_(e898n) ::, 0.9::artist:marceline2174 ::, 0.7::artist:nyugi0v0 ::, 2026 years, masterpiece, best quality, very aesthetic, highly detailed, 1.0::painterly rendering::, 1.3::subtle blush::, 1.5::glossy hair highlights::, 1.3::soft skin shading::, 0.9::sparkling details::, 2::handsome man, realistic lips, aegyo sal :: , detailed face, realistic eyes, natural fully lips, 1.4::handsome people:: , flyaway hairs, 1.4::skin texture::, skin pores, highres, intricate details, crisp details, detailed skin texture, detailed hair strands, defined edges, clear facial features, 0.6::anime coloring::, colored lineart, pastel colors, 0.6::pink theme::, light blush, sparkle, manhwa style, manhwa effect, 0.6::heart::, 0.5::star (symbol)::, 0.4::arrow (symbol)::, 0.4::squiggle::, 0.4::spoken heart::, 0.5::chibi inset::, cute hand-drawn doodles around the characters: little hearts, stars, arrows and tiny chibi faces, 1.0::artist:songjikyo::, 0.6::artist:zhumojian::"
   }
  ]
 };
