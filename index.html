@@ -31,6 +31,11 @@
   button.act { flex: 1; padding: 9px 6px; border-radius: 10px; border: 1px solid var(--line); background: #2b2436; color: var(--text);
     font: inherit; cursor: pointer; }
   button.act:active, button.act.done { border-color: var(--accent); }
+  a.act { flex: 1; padding: 9px 6px; border-radius: 10px; border: 1px solid var(--line); color: var(--accent); text-align: center;
+    text-decoration: none; }
+  a.chip { text-decoration: none; }
+  .card { scroll-margin-top: 12px; }
+  .card.hit { border-color: var(--accent); }
   details { color: var(--dim); font-size: 13px; }
   details p { margin: 6px 0 0; word-break: break-word; }
   .empty { color: var(--dim); padding: 30px 0; grid-column: 1 / -1; text-align: center; }
@@ -50,17 +55,21 @@
     <button class="chip on" data-m="">Все</button>
     <button class="chip" data-m="v5">V5</button>
     <button class="chip" data-m="4.5">4.5</button>
+    <a class="chip" href="negatives.html">Негативы →</a>
   </div>
 </header>
 <main id="grid"></main>
 <div id="zoom"><img alt=""></div>
 <script src="styles.js"></script>
+<script src="negatives.js"></script>
 <script>
 (function () {
   var LIB = window.LIB || { styles: [] };
   var grid = document.getElementById('grid'), q = document.getElementById('q'), zoom = document.getElementById('zoom');
   var model = '';
   var MODEL_LABEL = { 'v5': 'V5', '4.5': '4.5', 'any': 'любая модель' };
+  var NEG_OF = {};   // стиль → негатив, который идёт с ним в паре (страница negatives.html)
+  ((window.NEG || {}).list || []).forEach(function (n) { (n.styles || []).forEach(function (id) { NEG_OF[id] = n.id; }); });
 
   function el(tag, cls, text) {
     var e = document.createElement(tag);
@@ -92,6 +101,7 @@
 
   function card(s) {
     var c = el('div', 'card');
+    c.id = s.id;
     var img = el('img');
     img.src = 'img/' + s.id + '.webp';
     img.alt = s.name;
@@ -114,6 +124,12 @@
     b2.onclick = function () { copy(b2, s.tags); };
     btns.appendChild(b1);
     btns.appendChild(b2);
+    if (NEG_OF[s.id]) {
+      var b3 = el('a', 'act', 'Негатив →');
+      b3.title = 'Негатив, который идёт в паре с этим стилем';
+      b3.href = 'negatives.html#' + NEG_OF[s.id];
+      btns.appendChild(b3);
+    }
     b.appendChild(btns);
     var d = el('details');
     d.appendChild(el('summary', null, 'Показать теги'));
@@ -135,15 +151,17 @@
   }
 
   q.oninput = draw;
-  Array.prototype.forEach.call(document.querySelectorAll('.chip'), function (ch) {
+  Array.prototype.forEach.call(document.querySelectorAll('button.chip'), function (ch) {
     ch.onclick = function () {
       model = ch.getAttribute('data-m');
-      Array.prototype.forEach.call(document.querySelectorAll('.chip'), function (x) { x.classList.toggle('on', x === ch); });
+      Array.prototype.forEach.call(document.querySelectorAll('button.chip'), function (x) { x.classList.toggle('on', x === ch); });
       draw();
     };
   });
   zoom.onclick = function () { zoom.classList.remove('on'); };
   draw();
+  var hit = location.hash && document.getElementById(location.hash.slice(1));   // пришли со страницы негативов
+  if (hit) { hit.classList.add('hit'); hit.scrollIntoView(); }
 })();
 </script>
 </body>
