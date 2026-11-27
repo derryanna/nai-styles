@@ -2005,6 +2005,54 @@ window.LIB = {
    ]
   },
   {
+   "id": "s161",
+   "name": "Дерри-дудл · розовый",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "0.85::sasha khmel::, 1.0::en (e898n) ::, 0.4::quilm::, 0.7::lart_art1 ::, 0.7::cuso4 suiwabutu ::, sanbonzakura, 0.5::zero_q_0q ::, 0.9::teeniika::, 0.6::artist:juneseo ::, 0.5::artist:nnk (nongnong) ::, 0.5::artist:uzcoco_66 ::, 0.4::artist:songjikyo ::, 0.5::korean romance webtoon::, 0.5::manhwa style::, year 2026, masterpiece, best quality, very aesthetic, highly detailed, absurdres, highres, intricate details, crisp details, defined anatomy, 1.2::glossy hair highlights::, 1.2::soft skin shading::, 1.1::subtle blush::, 0.8::painterly rendering::, 1.3::handsome people, realistic lips, aegyo sal ::, detailed face, realistic eyes, 1.2::skin texture::, flyaway hairs, detailed hair strands, defined edges, clear facial features, 1.5::cinematic filter::, clean lineart, clean coloring, sharp focus, photorealistic, kaleidoscopic color accent, cyberpunk pastel, 1.1::pink theme::, 0.7::pastel colors::, light blush, 0.6::pink sparkles::, muted pastel colors, 0.6::heart::, 0.5::star (symbol)::, 0.4::arrow (symbol)::, 0.4::squiggle::, 0.4::spoken heart::, 0.5::chibi inset::, cute hand-drawn doodles around the characters: little hearts, stars, arrows and tiny chibi faces, 0.8::sparkle::",
+   "k": "8a4243b5a4",
+   "kinds": [
+    "Мульт"
+   ]
+  },
+  {
+   "id": "s162",
+   "name": "Дерри-дудл · синий",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "0.85::sasha khmel::, 1.0::en (e898n) ::, 0.4::quilm::, 0.7::lart_art1 ::, 0.7::cuso4 suiwabutu ::, sanbonzakura, 0.5::zero_q_0q ::, 0.9::teeniika::, 0.6::artist:juneseo ::, 0.5::artist:nnk (nongnong) ::, 0.5::artist:uzcoco_66 ::, 0.4::artist:songjikyo ::, 0.5::korean romance webtoon::, 0.5::manhwa style::, year 2026, masterpiece, best quality, very aesthetic, highly detailed, absurdres, highres, intricate details, crisp details, defined anatomy, 1.2::glossy hair highlights::, 1.2::soft skin shading::, 1.1::subtle blush::, 0.8::painterly rendering::, 1.3::handsome people, realistic lips, aegyo sal ::, detailed face, realistic eyes, 1.2::skin texture::, flyaway hairs, detailed hair strands, defined edges, clear facial features, 1.5::cinematic filter::, clean lineart, clean coloring, sharp focus, photorealistic, kaleidoscopic color accent, cyberpunk pastel, 1.1::blue theme::, 0.7::cool tones::, 0.5::teal accents::, 0.6::blue sparkles::, muted cool pastel colors, -0.6::pink theme::, 0.6::heart::, 0.5::star (symbol)::, 0.4::arrow (symbol)::, 0.4::squiggle::, 0.4::spoken heart::, 0.5::chibi inset::, cute hand-drawn doodles around the characters: little hearts, stars, arrows and tiny chibi faces, 0.8::sparkle::",
+   "k": "b54556d1d5",
+   "kinds": [
+    "Мульт"
+   ]
+  },
+  {
+   "id": "s163",
+   "name": "Дерри-дудл · зелёный",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "0.85::sasha khmel::, 1.0::en (e898n) ::, 0.4::quilm::, 0.7::lart_art1 ::, 0.7::cuso4 suiwabutu ::, sanbonzakura, 0.5::zero_q_0q ::, 0.9::teeniika::, 0.6::artist:juneseo ::, 0.5::artist:nnk (nongnong) ::, 0.5::artist:uzcoco_66 ::, 0.4::artist:songjikyo ::, 0.5::korean romance webtoon::, 0.5::manhwa style::, year 2026, masterpiece, best quality, very aesthetic, highly detailed, absurdres, highres, intricate details, crisp details, defined anatomy, 1.2::glossy hair highlights::, 1.2::soft skin shading::, 1.1::subtle blush::, 0.8::painterly rendering::, 1.3::handsome people, realistic lips, aegyo sal ::, detailed face, realistic eyes, 1.2::skin texture::, flyaway hairs, detailed hair strands, defined edges, clear facial features, 1.5::cinematic filter::, clean lineart, clean coloring, sharp focus, photorealistic, kaleidoscopic color accent, cyberpunk pastel, 1.1::green theme::, 0.6::mint green::, 0.5::teal accents::, 0.6::green sparkles::, muted cool pastel colors, -0.6::pink theme::, 0.6::heart::, 0.5::star (symbol)::, 0.4::arrow (symbol)::, 0.4::squiggle::, 0.4::spoken heart::, 0.5::chibi inset::, cute hand-drawn doodles around the characters: little hearts, stars, arrows and tiny chibi faces, 0.8::sparkle::",
+   "k": "b3feedf3b1",
+   "kinds": [
+    "Мульт"
+   ]
+  },
+  {
+   "id": "s164",
+   "name": "Дерри-дудл · фиолетовый",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "0.85::sasha khmel::, 1.0::en (e898n) ::, 0.4::quilm::, 0.7::lart_art1 ::, 0.7::cuso4 suiwabutu ::, sanbonzakura, 0.5::zero_q_0q ::, 0.9::teeniika::, 0.6::artist:juneseo ::, 0.5::artist:nnk (nongnong) ::, 0.5::artist:uzcoco_66 ::, 0.4::artist:songjikyo ::, 0.5::korean romance webtoon::, 0.5::manhwa style::, year 2026, masterpiece, best quality, very aesthetic, highly detailed, absurdres, highres, intricate details, crisp details, defined anatomy, 1.2::glossy hair highlights::, 1.2::soft skin shading::, 1.1::subtle blush::, 0.8::painterly rendering::, 1.3::handsome people, realistic lips, aegyo sal ::, detailed face, realistic eyes, 1.2::skin texture::, flyaway hairs, detailed hair strands, defined edges, clear facial features, 1.5::cinematic filter::, clean lineart, clean coloring, sharp focus, photorealistic, kaleidoscopic color accent, cyberpunk pastel, 1.1::purple theme::, 0.7::lavender::, 0.5::violet accents::, 0.6::purple sparkles::, muted cool pastel colors, -0.6::pink theme::, 0.6::heart::, 0.5::star (symbol)::, 0.4::arrow (symbol)::, 0.4::squiggle::, 0.4::spoken heart::, 0.5::chibi inset::, cute hand-drawn doodles around the characters: little hearts, stars, arrows and tiny chibi faces, 0.8::sparkle::",
+   "k": "7065efc2e2",
+   "kinds": [
+    "Мульт"
+   ]
+  },
+  {
    "id": "umwti2xai",
    "name": "добавить нада",
    "model": "v5",
