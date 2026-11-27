@@ -657,6 +657,14 @@ window.LIB = {
    "drawn": "v5",
    "house": false,
    "tags": "gomzi,[[[[deyui::,tianliang duohe fangdongye, wanke, 0.5::kaede (sayappa)::, [[ruzhai::, [[[[riichu]]]],tsukishiro yuki"
+  },
+  {
+   "id": "umwyq9a8n",
+   "name": "мими",
+   "model": "any",
+   "drawn": "v5",
+   "house": false,
+   "tags": "0.9:🧑‍🎨toma (toma50)::, artist:iuui, 1.5:🧑‍🎨92m::, 1.1:🧑‍🎨ikeuchi tanuma::, 1.8:🧑‍🎨mery (yangmalgage)::"
   }
  ]
 };
