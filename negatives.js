@@ -62,6 +62,14 @@ window.NEG = {
     "umwys0zvs"
    ],
    "text": "lowres, bad hands, bad anatomy, artistic error, sepia, white haze, worst quality, very displeasing, jpeg artifacts, 0::ai-generated::, {bad}, error, fewer, extra, missing, bad quality, watermark, unfinished, displeasing, chromatic aberration, signature, extra digits, username, scan, [abstract], @_@, mismatched pupils, {cubism}, {worst quality}, {normal quality}, {bad quality}, {{{{unskillful}}}}, {unfinished}, {incomplete}, {{failure}}, {inferior}, {terrifying}, {haunting}, {bad joint}, {monster}, {ugly}, {retro artstyle}, {key}, low quality, disfigured, poorly drawn, deformed, mutation, fused fingers, fused limb, extra limb, missing fingers, missing limb, missing digit, missing legs, disappearing arms, extra limbs, aged up, old, long neck, long body, rib, dusty sunbeams, depth of field, bokeh, out of focus, blurry, text, title, lineart, dithering, simple illustration, 3::anatomical nonsense::, upscaled, fewer details, incomplete, cheesy, unsatisfactory, inadequate, deficient, subpar, poor, scan artifacts, 5::artist collaboration::::artist:bkub, artist:bb (baalbuddy), artist:neocoill, artist:gaoo (frpjx283), artist:yukito (dreamrider), artist:konoshige (ryuun), artist:milkpanda, artist:nameo (judgemasterkou)::"
+  },
+  {
+   "id": "nmwys1vwx",
+   "name": "К стилю «Lunch · лёгкая графика»",
+   "styles": [
+    "umwys1vww"
+   ],
+   "text": "lowres, bad hands, bad anatomy, artistic error, sepia, white haze, worst quality, very displeasing, jpeg artifacts, 0::ai-generated::, {bad}, error, fewer, extra, missing, bad quality, watermark, unfinished, displeasing, chromatic aberration, signature, extra digits, username, scan, [abstract], @_@, mismatched pupils, {cubism}, {worst quality}, {normal quality}, {bad quality}, {{{{unskillful}}}}, {unfinished}, {incomplete}, {{failure}}, {inferior}, {terrifying}, {haunting}, {bad joint}, {monster}, {ugly}, {retro artstyle}, {key}, low quality, disfigured, poorly drawn, deformed, mutation, fused fingers, fused limb, extra limb, missing fingers, missing limb, missing digit, missing legs, disappearing arms, extra limbs, aged up, old, long neck, long body, rib, dusty sunbeams, depth of field, bokeh, out of focus, blurry, text, title, lineart, dithering, simple illustration, 3::anatomical nonsense::, upscaled, fewer details, incomplete, cheesy, unsatisfactory, inadequate, deficient, subpar, poor, scan artifacts, 5::artist collaboration::::artist:bkub, artist:bb (baalbuddy), artist:neocoill, artist:gaoo (frpjx283), artist:yukito (dreamrider), artist:konoshige (ryuun), artist:milkpanda, artist:nameo (judgemasterkou)::"
   }
  ]
 };
