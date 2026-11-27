@@ -1473,6 +1473,14 @@ window.LIB = {
    "drawn": "v5",
    "house": false,
    "tags": "1.95::horikoshi kouhei::, 0.05::artist:shexyo::, 0.5::artist:inoue_kiyoshirou::, 0.75::artist:anteiru:: 1::artist:gogalking ::, 1.15::artist:haze_(7h4ze) ::, 1.2::artist:mx2j::, 1.5::artist:yoneyama mai::, 0.75::artist:pigeon666, :: 0.5::artist:yesman_(cvbnyesman) ::, 0.5::artist:hintobento::, 0.3::artist:takeda hiromitsu::, 0.15::artist:nyantcha::, year 2024, year 2025, year 2026, 0.2::high complexity::,1.5::background with high complexity ::, 1::Digital illustration::, best quality, amazing quality, very aesthetic, 1::very aesthetic::, 1.5::abusdres::, 1.5:: best illustration ::, 3::masterpiece::, -1::simple illustration::, -1::artist collaboration::, 0.8::cel shading::, 0.3::low saturation ::, 1::Soft colors::"
+  },
+  {
+   "id": "umwyse0mk",
+   "name": "testeitz",
+   "model": "any",
+   "drawn": "v5",
+   "house": false,
+   "tags": "0.8:🧑‍🎨try(lsc))::, 0.6:🧑‍🎨Ame (Uten Cancel)::, 0.5:🧑‍🎨horikoshi kouhei::, 0.4:🧑‍🎨gogalking::, 0.3:🧑‍🎨meion::, 0.2:🧑‍🎨reagan long::, 0.15:🧑‍🎨mx2j::, year 2025, year 2026, newest, masterpiece, amazing quality, best quality, very aesthetic, highres, incredibly absurdres, flat color, fine details, cinematic lighting, 2::jaggy lines::, comic shading, -3::artist collaboration, monochrome::, -1::flat color::, no lineart, breasts apart::"
   }
  ]
 };
