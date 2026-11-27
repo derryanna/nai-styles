@@ -579,6 +579,710 @@ window.LIB = {
    "tags": "0.85::sasha khmel::, 1.0::en (e898n) ::, 0.4::quilm::, 0.7::lart_art1 ::, 0.7::cuso4 suiwabutu ::, sanbonzakura, 0.5::zero_q_0q ::, muted colors, masterpiece, best quality, highly detailed, absurdres, defined anatomy, very aesthetic, 1.5::cinematic filter::, clean lineart, clean coloring, sharp focus, 0.9::teeniika::, photorealistic, kaleidoscopic color accent, cyberpunk pastel, 0.6::heart::, 0.5::star (symbol)::, 0.4::arrow (symbol)::, 0.4::squiggle::, 0.4::spoken heart::, 0.5::chibi inset::, cute hand-drawn doodles around the characters: little hearts, stars, arrows and tiny chibi faces"
   },
   {
+   "id": "s73",
+   "name": "Корея · Чистая линия, мягкий тёплый",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "1.2::artist:a yue::, 0.85::artist:zd 1995 ::, artist:wepwawet, 0.65::artist:ogura hiroko::, 0.35::artist:shiokaze1409 ::, 0.35::artist:ji heeeeeee::, 0.85::artist:okitya_2 ::, 0.8::artist:typehatena::, 0.95::artist:healthyman::, 0.95::artist:pu3xn::, 1.35::artist:okita (sukult 4)::"
+  },
+  {
+   "id": "s74",
+   "name": "Корея · Глянец, закатное золото",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "1.2::furukawa (yomawari)::, 1.2::healthyman::, 0.2::ratatatat74 ::, 0.6::tokkyu::, 0.7::hanekoto::, 0.7::michibata 65 ::, 0.6::henriiku (ahemaru)::"
+  },
+  {
+   "id": "s75",
+   "name": "Корея · Тёмный контровой свет, живопись",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "1.8::rella::, 0.5::wlop::, 0.9::konya karasue::, 0.5::quasarcake::, 0.9::yoneyama mai::, 0.6::greatmosu::, 0.7::ask (askzy)::, 0.3::hiro (dismaless)::, 0.55::momoko (Momopoco)::, 0.9::nixeu::, 1.3::rhtkd::, 0.22::ratatatat74 ::, 0.5::tokkyu::, 0.7::0jae::"
+  },
+  {
+   "id": "s76",
+   "name": "Корея · Нежная пастель, тонкая линия",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "a20 (atsumaru), 0.4::noyu (noyu23386566)::, 1.5::horikoshi kouhei::, 0.8::msa (fary white)::, 0.3::akiyama enma::, 0.6::patzzi::, 1.1::draw eyes like artist:azuuru::, 0.9::hiro (dismaless)::, 1.5::banishment::, 0.7::cc lin::"
+  },
+  {
+   "id": "s77",
+   "name": "Корея · Плотный аниме-колор, пушистые детали",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "0.7::artist:rehu_(astd5787)::, 0.7::artist:kairunoburogu::, 0.7::artist:ebora::, 0.5::artist:fishine::, 0.5::artist:shindol::, 0.45::artist:reagan_long::, 0.45::artist:hitobashira_(1746164306)::, 0.6::artist:masoq::, 0.7::artist:sparrowl::"
+  },
+  {
+   "id": "s78",
+   "name": "Корея · Мягкий семи-риал, спокойный",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "0.92::artist:eufoniuz::, 2.05::artist:kim jung gi::, 0.85::artist:mameojitan::, 0.35::artist:kdmr0402 ::, 1.05::artist:healthyman::, 1.35::artist:typehatena::, 0.55::artist:bee (deadflow)::, 0.9::artist:maorisu henkyo haku::, 0.4::artist:morry::, 0.7::artist:momo walnut::, 0.85::artist:kurobi (netisz)::"
+  },
+  {
+   "id": "s79",
+   "name": "Корея · Сине-оранжевый контраст, комикс",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "0.6::kankan33333 ::, 0.4::aramachi::, 0.6::massakasama::, 0.7::furukawa (yomawari)::, 0.6::michibata 65 ::, 0.7::satou kibi::, 1.2::meyoco::, 0.5::kutsuki kai::, 0.7::henriiku (ahemaru)::, 0.5::mochizuki kei::, 1.5::mifuru::, 0.6::channel (caststation)::, 1.7::oharu-chan::, 0.7::hanekoto::, 1.2::akipeko::, 1.4::datsha::"
+  },
+  {
+   "id": "s80",
+   "name": "Корея · Яркий аниме, блики",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "1.5::miratsu_(miratsu169)::, akiyama enma, chueog, 0.8::hiraga matsuri::, 0.6::ebora::, 0.7::wujurana::, 0.6::acedia::, 0.5::sora 72-iro::"
+  },
+  {
+   "id": "s81",
+   "name": "Корея · Семи-риал, плотные тени",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "1.6::mifuru::, 0.8::wagashi (dagashiya)::, 1.2::hamafugu::, 1.7::akipeko::, 0.7::hanekoto::, 0.9::sakura (39ra)::, 0.7::mx2j::, 0.7::na tarapisu153 ::, 2::ilya kuvshinov::, 0.7::hiro (dismaless)::, 0.9::bm94199 ::"
+  },
+  {
+   "id": "s82",
+   "name": "Корея · Дымчатая живопись, приглушённый",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "0.95::artist:dorontabi::, 0.85::artist:patzzi::, 0.9::artist:typehatena::, 0.7::artist:wagashi (dagashiya)::, 0.55::artist:wlop::, 0.4::artist:grscubes::, 0.35::artist:poibu (illegal9244)::, 0.35::artist:wada arco::, 0.1::artist:warugaki (sk-ii)::, 0.3::artist:henreader::, 0.78::artist:bee (deadflow)::, 0.98::artist:morino hon::, 0.48::artist:uzuki tenchan::, 0.49::zankuro::, 0.35::artist:barbarian tk::, 1.22::artist:healthyman::, 0.35::artist:void 0 ::, 0.5::artist:shisantian::, 0.85::artist:luicent::, 0.4::artist:a yue::, 0.73::artist:beni shake::"
+  },
+  {
+   "id": "s83",
+   "name": "Корея · Тёмный закат, объёмный свет",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "0.9::takeda hiromitsu::, 0.8::pigeon666 ::, 0.8::rusellunt::, 1.1::hintobento::, 0.75::ebora::, 0.78::bacius::, 0.55::rinotuna::, 0.45::nyantcha::, 0.55::reagan long::, 0.5::horikoshi kouhei::, 0.5::fellatrix::, 0.78::satou kuuki::, 1.25::ame_(uten_cancel)::, 0.85::neroma shin::"
+  },
+  {
+   "id": "s84",
+   "name": "Корея · Сочное аниме, фиолетовые тени",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "1.5::artist:amaki daisuke::, 1.5::artist:horikoshi kouhei::, 0.8::artist:dsmile::, 1.2::artist:healthyman::, 0.8::artist:wagashi (dagashiya)::, 0.8::artist:kadeart::, 1.2::artist:kim hyung tae::, 0.7::massakasama::, meyoco, 0.5::artist:kat (bu-kunn), artist:kokukyukeo, artist:sumiyao (amam), artist:fanteam, artist:mikozin, artist:mannack, artist:ningen mame::, 0.4::artist:qiandaiyiyu::, 0.5::artist:ie (raarami)::"
+  },
+  {
+   "id": "s85",
+   "name": "Корея · Гуашь, грубый мазок",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "1.1::artist: yanyan (shinken gomi)::, 0.4::artist: remsrar::"
+  },
+  {
+   "id": "s86",
+   "name": "Корея · Мягкая иллюстрация, розовый румянец",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "0.4::artist:freng::, 0.2::artist:ningen_mame::, 0.4::artist:hyocorou::, 0.6::artist:jp06 ::, 0.4::artist:ter_(otokoter)::, 0.6::artist:murata yuusuke::, 0.2::artist:momisan::, 0.4::artist:ratatatat74 ::, 2::artist:channel_(caststation)::, 0.4::artist:miito (meeeeton333)::, 0.6::artist:ouchi_kaeru::, 0.4::artist:wo_habum::, 0.6::artist:horikoshi_kouhei::, 0.6::artist:kakure_eria::, 0.6::artist:wagashi_(dagashiya)::, 0.4::artist:onono_imoko::, 0.4::artist:ebora::, 0.4::artist:ohisashiburi::, 0.4::artist:gogalking::, 0.6::artist:georugu13 ::, 0.8::artist:strongbana::, 0.6::artist:fishine::, 1.5::artist:yabby::, 0.2::artist:xipa::, 0.6::artist:kurosteel_ds::, 0.6::artist:luxsumildo::, 1.2::artist:mx2j::"
+  },
+  {
+   "id": "s87",
+   "name": "Корея · Глянцевая вайфу, чистый цвет",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "qiandaiyiyu, herio, hizuki akira, 0.5::mignon::, hiro_(dismaless), 0.8::urushihara satoshi::, sasamori tomoe, 1.3::yabuki kentarou::, sakimichan, kim hyung tae"
+  },
+  {
+   "id": "s88",
+   "name": "Корея · Вайфу, белый свет",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "artist: marushin (denwa0214), artist: obui, 0.7::artist: ratatatat74 ::, 0.8::artist: black beat::"
+  },
+  {
+   "id": "s89",
+   "name": "Корея · Ровный тёплый колор, тонкая линия",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "0.7::razaras::, 0.2::freng::, 0.7::kidmo::, 0.8::channel (caststation)::, 0.4::hiramedousa::, 0.5::bm94199 ::, 0.6::96yottea::"
+  },
+  {
+   "id": "s90",
+   "name": "Корея · Аниме, большой блик, вишнёвые волосы",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "a20 (atsumaru), 0.4::noyu (noyu23386566)::, 1.5::horikoshi kouhei::, draw pupils like artist:58 (opal 00 58), 0.6::msa (fary white)::, 0.3::akiyama enma::, 0.9::patzzi::, 1.5::draw eyes like artist:azuuru::"
+  },
+  {
+   "id": "s91",
+   "name": "Корея · Иллюстрация, чёткая линия, зелёные глаза",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "1.2::artist:koyo2023 ::, 0.8::artist:nogiwa kaede::, 0.55::artist:typehatena::, 0.35::artist:sumiyao (amam)::, 0.85::artist:ye jji::, 0.35::artist:nardack::, 0.65::artist:zankuro::, 0.5::artist:pitslip::, 0.65::artist:gogalking::, 0.36::artist:sakurai energy::, 0.65::artist:try (lsc)::, 0.6::artist:healthyman::, 0.4::artist:ryuuforkaf::, 0.75::artist:pigeon666 ::, 1.15::artist:murata yuusuke::, 0.75::artist:chueog::, 0.25::artist:bongftah::"
+  },
+  {
+   "id": "s92",
+   "name": "Корея · Светлая акварельная дымка",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "0.7::artist:freng::, artist:momoko (momopoco), 1.3::artist:96yottea::, 1.3::wanke::, 0.5::artist:murata yuusuke::, 0.6::artist:qiandaiyiyu, artist:yoya yogurt::"
+  },
+  {
+   "id": "s93",
+   "name": "Корея · Яркий глянец, алые волосы",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "0.7::artist:ceey::, 0.8::artist:agoto::, 0.7::artist:kedama_milk::, 0.6::artist:kanzarin::, 0.7::artist:yunmi_0527 ::, 0.8::artist:marushin (denwa0214)::, 0.4::artist:henriiku (ahemaru)::, 0.6::artist:dishwasher1910 ::, 0.7::artist:96yottea::, 0.4::artist:cutesexyrobutts::, 0.5::artist:torino aqua::, 0.9::artist:qiandaiyiyu::, 1.2::artist:yoya yogurt::, 0.6::artist:onono imoko::, 0.6::artist:mika pikazo::, 0.6::artist:wanke::, 0.6::artist:kim eb::, 0.6::artist:kanzarin::, 0.5::artist:quasarcake::"
+  },
+  {
+   "id": "s94",
+   "name": "Корея · Лёгкий аниме, светлый песок",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "0.85::artist:topu::, 0.45::artist:huasuan69416 ::, 0.3::artist:kashu (hizake)::, 0.4::artist:nanoless::, 0.3::artist:neoartcore::, 0.35::artist:liang xing::, 0.2::artist:papa (shimeguru)::, 0.45::artist:yoako::, 0.4::artist:takuu (seadog6662)::, 0.5::artist:pigeon666 ::, 0.5::artist:Mika Pikazo::, 0.75::artist:madcore::, 0.45::artist:freng::, 0.85::artist:ye jji::"
+  },
+  {
+   "id": "s95",
+   "name": "Корея · Ретро-аниме, тонкие кудри",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "0.7::artist:hiyoko spot::, 0.7::artist:clamp (circle)::, 0.5::artist:kuroboshi kouhaku::"
+  },
+  {
+   "id": "s96",
+   "name": "Корея · Бледный лайн-арт, акварель",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "0.7::artist:lunch (shin new)::, 1.2::artist:ningen mame::, 0.9::artist:henriiku (ahemaru)::, 1.2::artist:dishwasher1910 ::, 0.7::artist:shigure ui::, 0.6::artist:qiandaiyiyu::, 0.5::artist:kedama milk::, 0.6::artist:mikan03 26 ::, 1.1::artist:ame arare::, 0.9::artist:shnva::, 0.8::artist:freng::, 0.7::artist:96yottea::"
+  },
+  {
+   "id": "s97",
+   "name": "Корея · Тёмная вайфу, плотный контур",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "1.2::artist:poper_(arin_sel), artist:healthyman, artist:mx2j, artist:2n5, artist:sos_adult, artist:ohisashiburi::, artist:ushikani_kassen, artist:ie_(raarami), artist:dekosukentr, 0.8::artist:raigyo_(mk48torpedo)::, 0.6::artist:higashide irodori, artist:qiandaiyiyu, artist:midnight_(midnightstream3), artist:obui::, 0.5::artist:freng::, 0.4::artist:ka_(996beshi)::"
+  },
+  {
+   "id": "s98",
+   "name": "Корея · Спокойное аниме, мягкие тени",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "1.1::artist: luncun (lunchekin)::, 0.4::artist: remsrar::, 0.25::artist: bbuny::"
+  },
+  {
+   "id": "s99",
+   "name": "Корея · Розовая дымка, скетч",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "1.5::artist:shimokirin::, 1.35::artist:nuu (nu-nyu)::, 0.8::artist:topu::, 0.9::artist:noya makoto::, 1.2::artist:loliconder::, 0.7::artist:nucomas::, 0.6::artist:onono imoko::, 0.5::artist:tianliang duohe fangdongye::, artist:klaius, 0.4::artist:trente::, 0.3::artist:bongftah::, 0.95::artist:kisaragi kaya::"
+  },
+  {
+   "id": "s100",
+   "name": "Корея · Контрастный глянец, тёмный закат",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "2::horikoshi kouhei::, 0.5::ratatatat74 ::, 1.5::ie_(raarami)::, 0.8::poriuretan::, 0.9::nai ga::, 0.9::gogalking::, 0.9::blue gk::, 0.7::shinjiro::"
+  },
+  {
+   "id": "s101",
+   "name": "Корея · Тёплая гуашь, мягкий контур",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "artist:syst098, artist:nyamofe, 0.8::artist:yotte, artist:hutaba haru::, 0.5::artist:wenny02, artist:arai youjirou::"
+  },
+  {
+   "id": "s102",
+   "name": "Корея · Мульт, большие глаза",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "artist:kerberos_(kerbe_), 0.6::artist:yo-co, artist:hanavbara::, 0.8::artist:kmnk_(kumanuko)::"
+  },
+  {
+   "id": "s103",
+   "name": "Корея · Плоская пастель, детская книжка",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "1.1::artist:milcah, artist:baonu_de_zhanshen_caibutou::, 0.8::artist:33bun3, artist:memuro::, 0.5::artist:bai_gui_hua_zi::"
+  },
+  {
+   "id": "s104",
+   "name": "Корея · Иллюстрация, жёлто-оранжевая, ар-нуво",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "artist:soreeyu_(sore-yu), artist:invaderdarling, 0.8::artist:kerberos_(kerbe_)::, 0.5::artist:amatou_akuma::, 0.2::artist:hanavbara::"
+  },
+  {
+   "id": "s105",
+   "name": "Корея · 3D-рендер, алые волосы",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "1.8::artist:ask (askzy)::, 0.9::artist:wlop::"
+  },
+  {
+   "id": "s106",
+   "name": "Корея · 3D-рендер, закатный контраст",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "1.1::artist:ask (askzy)::, 0.85::jiaopiupiu::, 0.8::artist:wlop::, 0.45::huade xiami::"
+  },
+  {
+   "id": "s107",
+   "name": "Корея · Блестящий аниме, фиолетовые блики",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "1.2::artist:kim eb::, 0.7::artist:torino aqua::, 0.6::artist:mikozin::, 0.4::tianliang duohe fangdongye, ixy::, 0.5::kedama milk::, 0.7::artist:quasarcake::, 0.7::artist:channel (caststation)::, 0.6::artist:tab head::, 0.5::artist:qiandaiyiyu::, 0.5::artist:mika pikazo::, 0.3::artist:wanke::, 0.4::artist:freng::, 0.25::artist:cutesexyrobutts::, tabi"
+  },
+  {
+   "id": "s108",
+   "name": "Корея · Ретро-комикс, штриховка",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "1.5::artist:amnyuixx::, 0.8::artist:yoko.u::, 0.6::artist:yo-co::, 0.4::artist:channel (caststation), artist:dorkdragoon::"
+  },
+  {
+   "id": "s109",
+   "name": "Корея · Плоский колор, розовый",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "artist:channel (caststation), artist:monyami, 0.9::artist:dorkdragoon::, 0.8::artist:waonaolmao::"
+  },
+  {
+   "id": "s110",
+   "name": "Корея · Живопись, сиреневые тени",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "artist:nakamura regura, sohn woohyoung, healthyman, 0.7::artist:kunaboto::, 0.9::artist:pepe(jonasan)::, 0.8::artist:cosine::, 0.4::artist:mx2j::, 1.5::artist:channel_(caststation)::"
+  },
+  {
+   "id": "s111",
+   "name": "Корея · Семи-риал, холодная пастель",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "1.25::artist:inoue kiyoshirou::, 0.85::kurono mitsuki::, 0.65::artist:marushin (denwa0214)::, 0.55::artist:teshima nari::, 0.35::artist:henriku (ahemaru)::, 0.18::artist:mika pikazo::"
+  },
+  {
+   "id": "s112",
+   "name": "Корея · Золотой контур, кудри",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "2::de da xianyu::, 1.4::artist:koyo2023 ::, 1.45::artist: kim hyung tae::, 0.7::artist:zankuro::, 0.7::artist:gogalking::, 0.95::artist:channel (caststation)::, 0.95::artist:freng::, 1.2::murata yuusuke::, 0.8::artist:suzumi (ccroquette)::, 1.1::artist:pigeon666 ::, 0.7::artist:soybean_(hisoybean)::, 0.85::artist:chueog::"
+  },
+  {
+   "id": "s113",
+   "name": "Корея · Мягкая живопись, солнечная дымка",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "1.2::artist:jima, artist:modare::, 1.2::artist:atte nanakusa::"
+  },
+  {
+   "id": "s114",
+   "name": "Корея · Тёмная иллюстрация, тонкая штриховка",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "2.5::artist:lunch (lunchicken)::, 1.2::artist:dal_li_0130 ::, 0.4::artist:mochizuki kei::, 0.3::artist:quuni::, 1.8::artist:liduke::, 0.4::artist:momisan::, 0.9::artist:krenz::, 1.7::void_0 ::, 1.4::artist:healthyman::, artist:arl, 0.9::artist:96yottea::, artist:tianliang duohe fangdongye, artist:akipeko, 1.2::artist:suzumi_(ccroquette)::, 0.8::artist:mgmg_1012 ::, 0.8::artist:zero_q_0q::"
+  },
+  {
+   "id": "s115",
+   "name": "Корея · Плоский чистый контур, персиковый",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "0.5::artist:henriiku (ahemaru)::, 0.6::artist:dayama::, 0.9::artist:mo (kireinamo)::"
+  },
+  {
+   "id": "s116",
+   "name": "Корея · Комикс, толстая линия, загар",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "0.7::artist:lix (iroiro3843)::, artist:ido (teketeke), 0.8::artist:na tarapisu153 ::, 0.5::artist:wanke::, 0.6::artist: onineko::, 0.6::artist:wagashi (dagashiya)::, 1.2::artist:channel (caststation)::"
+  },
+  {
+   "id": "s117",
+   "name": "Корея · Светлый скетч, тёплая сепия",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "1.1::artist:gogalking::, 0.8::artist:wagashi (dagashiya)::, 1.3::artist:healthyman::, 0.7::artist:ratatatat74 ::, 0.7::artist:ciloranko::, 1.1::artist:ie (raarami)::, 1.2::artist:mx2j::"
+  },
+  {
+   "id": "s118",
+   "name": "Корея · Глянцевый аниме, вишнёвый",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "1.4::xipa::, 0.6::artist:namako daibakuhatsu::, 1.5::artist:ryuuforkaf::, 1.1::artist:2n5 ::, 1.1::artist:gogalking::, 1.2::artist:mx2j::, 0.8::artist:wagashi (dagashiya)::, 1.3::artist:healthyman::, 0.7::artist:ratatatat74 ::, 0.7::artist:ciloranko::, 1.1::artist:ie (raarami)::"
+  },
+  {
+   "id": "s119",
+   "name": "Корея · Живопись, жёлтый закат",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "0.63::artist:doremi (doremi4704)::, 0.9::artist:mika pikazo::, 0.7::artist:marushin (denwa0214)::, 0.7::artist:cutesexyrobutts::, 0.6::artist:ratatatat74 ::, 0.8::artist:teshima nari::, 0.9::artist:hwansang::, 0.9::artist:yoya yogurt::, 0.75::artist:ohisashiburi::, 0.9::maeka (kumaekake)::, 1.5::artist:homunculus (alchemynote)::, 0.5::artist:kase daiki::"
+  },
+  {
+   "id": "s120",
+   "name": "Корея · Мягкий семи-риал, кремовый",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "0.6::artist:nyong nyong::, 0.8::artist:hiro (dismaless)::, 0.5::artist:morino hon::, 0.4::artist:kingin::, 0.6::artist:ebora::, 0.6::artist:ramanda::, 0.7::artist:modare::"
+  },
+  {
+   "id": "s121",
+   "name": "Корея · Светящийся аниме, оранжевый",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "artist:supernew, artist:2qba, 0.7::artist:freng::, 0.8::artist:pottsness::, artist:maett, 1.5::artist:mx2j::, artist:serin199, controlline3, artist:lunch (shin new), artist:deyui, artist:akita_hika, artist:gwan-e, artist:sangobob, artist:dishwasher1910, artist:horegi, artist:sib_(9obsl), artist:yd (orange maru), artist:ciloranko"
+  },
+  {
+   "id": "s122",
+   "name": "Корея · Неоновый блеск, малиновые волосы",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "0.8::qiandaiyiyu::, 0.8::artist:fuzichoco::, 0.8::artist:liduke::, 0.8::artist:yoshito::, 0.6::artist:shnva::, 0.4::artist:96yottea::, 0.8::artist:nixeu::, 0.8::artist:pokimari::"
+  },
+  {
+   "id": "s123",
+   "name": "Корея · Нежный аниме, розовая пастель",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "artist:wolrero, artist:jima, artist:machi(machi0910), 0.8::artist:anthonykaen::"
+  },
+  {
+   "id": "s124",
+   "name": "Корея · Приглушённая живопись, охра",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "2.3::artist:lunch (lunchicken)::, 1.2::artist:dal_li_0130 ::, 0.4::artist:mochizuki kei::, 0.3::artist:quuni::, 1.5::artist:liduke::, 0.9::artist:krenz::, 1.2::void_0 ::, 0.2::artist:momisan::, 1.4::artist:healthyman::, artist:arl, 0.8::artist:akipeko::, artist:suzumi_(ccroquette), 0.9::artist:mgmg_1012 ::, 0.8::artist:zero_q_0q::"
+  },
+  {
+   "id": "s125",
+   "name": "Корея · Чистое аниме, прямой взгляд",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "1.4::artist:freng::, 1.7::artist:fkey::, 1.3::artist:iuui::, 1.1::artist:kawakami rokkaku::, 1.7::artist:jyt::, 0.8::artist:92m::, 1.6::artist:deadnooodles::"
+  },
+  {
+   "id": "s126",
+   "name": "Корея · Акварельный лайн, светлый",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "0.9::artist:toma (toma50)::, artist:iuui, 1.5::artist:92m::, 1.1::artist:ikeuchi tanuma::, 1.8::artist:mery (yangmalgage)::"
+  },
+  {
+   "id": "s127",
+   "name": "Корея · Контровой свет, оранжевое свечение",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "0.79::artist:realmbw::, 0.85::artist:mashutarou (neko no oyashiro)::, 0.7::artist:pottsness::, 0.6::artist:danimaru::, 1.1::artist:yjs0803123 ::"
+  },
+  {
+   "id": "s128",
+   "name": "Корея · Жёлтая монохромная живопись",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "0.85::artist: myabit::, 1.10::artist: norakura_(nr_kura)::, 0.70::artist: krystopher_decker::, 1.85::artist: funabashi_(iwzry)::, 1.15::artist: colorful_palette::"
+  },
+  {
+   "id": "s129",
+   "name": "Корея · Чёткий аниме, белое платье",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "0.15::artist:noeru::, 3::artist:solipsist::, 1.65::artist:rusellunt::, 1.35::gogalking::, 0.45::mika pikazo::, 0.68::artist:sparrowl::, 0.25::artist:bee (deadflow)::, 0.6::artist:ie (raarami)::, 3::artist:solipsist::, 1.95::artist:horikoshi kouhei::, 0.75::modare::, 2.8::artist:gogalking, artist:solipsist::, 0.45::artist:mi8pq::, 0.55::modare::, 0.15::artist:au (d elete)::"
+  },
+  {
+   "id": "s130",
+   "name": "Корея · Мягкий закатный семи-риал",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "1.35::artist:krab (fumekrab)::, 1.28::sho (sho lwlw)::, 1.15::9ml::, 0.4::ask (askzy)::, 0.6::pigeon666 ::, 0.63::kurotsuki machi::, 0.88::liduke::"
+  },
+  {
+   "id": "s131",
+   "name": "Корея · Контрастный аниме, чёрные пряди",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "1.5::mizumi zumi::, 1.25::artist:krab (fumekrab)::, 1.23::imoko (imonatsuki)::, 1.18::channel (caststation)::, 0.79::henriiku (ahemaru)::, 0.66::betanonbeet::, 0.8::domi (hongsung0819)::, 0.89::mika pikazo::, 1.35::liduke::"
+  },
+  {
+   "id": "s132",
+   "name": "Корея · Тёмная охра, плоские тени",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "1.4::artist:sano yuuto::, artist:songchuan li, 0.8::artist:loongm::, artist:mohoshadream, artist:godiva ghoul, 0.8::artist:shirahama kamome::, 0.6::artist:muchi maro, artist:imamura ryou::"
+  },
+  {
+   "id": "s133",
+   "name": "Корея · Тёмный контур, реалистичные волны",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "artist:channel (caststation), artist:himemura saki, artist:houtengeki, artist:momomatang, artist:baffu, :artist:kimidake, artist:mx2j, artist:oekaki, 0.8::artist:henriiku(ahemaru)::, 0.8::artist:ie(raarami)::, 0.3::artist:misaka 12003-gou::, artist:mx2j, artist:terasu mc, 0.3::artist:qiandaiyiyu::, 0.3::artist:yunsang::"
+  },
+  {
+   "id": "s134",
+   "name": "Корея · Мягкая живопись, румянец",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "0.5::artist:henriiku (ahemaru)::, 0.8::artist:dayama::, artist:jonpei, artist:horideiyasumi"
+  },
+  {
+   "id": "s135",
+   "name": "Корея · Тёплый аниме, длинные пряди",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "0.7::artist:try (lsc)::, artist:freng, 0.4::artist:ame (uten cancel)::, 0.8::artist:seicoh::, 0.6::artist:parsley-f::, 0.6::artist:amagai tarou::, 1.4::artist:healthyman::, 0.6::artist:ie (raarami)::, 0.5::artist:ask (askzy)::, 0.7::artist:fishine::, artist:re0n, 0.5::artist:cola gotouryouta::, 0.7::artist:asanagi::"
+  },
+  {
+   "id": "s136",
+   "name": "Корея · Светлая акварель, тонкий штрих",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "0.5::syuri22 ::, 0.75::hito komoru::, 1.3::horikoshi kouhei::, 0.9::beudelb::, 0.9::sushispin::, 0.5::meion::, 0.4::ningen mame::, 0.8::azuuru::, 0.4::channel (caststation)::, 0.3::momoko (momopoco)::, 0.6::rolua::"
+  },
+  {
+   "id": "s137",
+   "name": "Корея · Пластилиновый семи-риал, сиреневый",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "1.1::artist:nogiwa kaede::, artist:yamamoto souichirou, 0.5::artist:wlop::, 0.5::artist:freng::, 0.45::artist:tianliang duohe fangdongye::, 0.7::zankuro::, 0.45::doppel (bonnypir)::, 0.65::artist:imasaki_kei::"
+  },
+  {
+   "id": "s138",
+   "name": "Корея · Яркий мульт, кислотные глаза",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "1.2::artist:higashide irodori::, 0.9::artist:healthyman::, 0.65::artist:doremi (doremi4704)::, 0.3::artist:dlckrpwjd111 ::, 0.35::artist:di le to::, 0.3::artist:deadflow::, 0.95::artist:ie (raarami)::, artist:daiji pt, 0.6::artist:ratatatat74 ::, 0.6::artist:itzah::, 0.5::artist:Henriiku (Ahemaru)::, 0.8::artist:artist:ningen mame::, 0.8::artist:naga U::, 0.7::artist:neshia (tsaqif0309)::, 0.8::artist:meto (metrin)::"
+  },
+  {
+   "id": "s139",
+   "name": "Корея · Семи-риал, серое платье",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "0.8::qiandaiyiyu::, 0.7::da mao banlangen::, 0.7::ie (raarami)::, 0.9::gogalking::, 0.6::ratatatat74 ::, 1.1::ask (askzy)::, 1.2::wlop::, 1.6::hyouuma::, 1.4::rella::, 1.3::ddal::, 1.1::healthyman::"
+  },
+  {
+   "id": "s140",
+   "name": "Корея · Размытая пастель, сон",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "artist:wanke, artist:staryoruu, 0.4::artist:fumio_(snnmfmw)::, artist:murata yuusuke, artist:haiki (tegusu), artist:watari_yuu_(haskey), artist:ratatata74, 1.6::artist:shiba yuuji::, artist:nayoshi (r-744), 0.9::artist:atie1225 ::"
+  },
+  {
+   "id": "s141",
+   "name": "Корея · Тёмный вебтун, малиновый закат",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "2.3::artist: baffu::, 1.3::artist: kato takuji::, 0.9::artist: kannatsuki noboru::, 1.5::artist: sparrowl::, 0.6::artist: moto murabito::, 0.7::artist: kyokucho::, 1.7::artist: odmised::, 1.5::artist: neco::, 0.85::artist: klopsiak::, 1.5::artist: poco(asahi age)::, 1.6::artist: neco::, 1.4::artist: pigeon666 ::, 0.73::artist:b_zhan_cm_yang::, 1.4::artist: su reut::, 0.1::artist: gsus::"
+  },
+  {
+   "id": "s142",
+   "name": "Корея · Кудрявый поп-арт, розовый",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "1.2::artist:fishine::, 0.4::artist:aya_shachou::, 0.2::artist:momisan::, 0.2::artist:pearlgang_e::, 0.2::artist:asakai_mocchinu::, 0.3::artist:horikou::, 0.4::artist:kakure_eria::, 0.4::artist:georugu13 ::, 0.4::artist:merunyaa::, 0.4::artist:onono_imoko::, 0.4::artist:inoue_kiyoshirou::, 0.4::artist:ohisashiburi::, 0.4::artist:mx2j::, 1.2::artist:channel_(caststation)::, 0.8::artist:strongbana::, 1.2::artist:yabby::"
+  },
+  {
+   "id": "s143",
+   "name": "Корея · Плотный аниме, загорелая кожа",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "0.5::artist:ratatatat74 ::, 0.8::artist:muchi maro::, 0.9::artist:reagan_long::, 0.8::artist:taaru_(taru)::, 0.9::artist:imamura ryou::, 0.8::artist:ie (raarami)::, 0.8::artist:sparrowl::"
+  },
+  {
+   "id": "s144",
+   "name": "Корея · Вайфу, вишнёво-фиолетовые волосы",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "artist:kimidake, artist:channel (caststation), artist:himemura saki, artist:houtengeki, 1.2::artist:momomatang::, 1.2::artist:misaka 12003-gou::, artist:mx2j, artist:terasu mc, artist:qiandaiyiyu, 1.4::artist:yunsang::, 0.1::artist:ahemaru::, 0.2::artist:ie (raarami)::"
+  },
+  {
+   "id": "s145",
+   "name": "Корея · Коралловый плоский колор",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "1.2::cutesexyrobutts::, pepe (jonasan), laserflip"
+  },
+  {
+   "id": "s146",
+   "name": "Корея · Розовые волосы, румянец, моэ",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "0.5::bee_(deadflow), weimiaw, comodox, healthyman::, 0.8::xipa, kouya_toufu, kakure_eria::, 1.5::dikko, kanzarin::"
+  },
+  {
+   "id": "s147",
+   "name": "Корея · Глянцевая вайфу, тёмный контраст",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "1.7::artist:dizzle::, 0.8::artist:momonosuke_(u-ma991028)::, artist:hashimoto_(soukidann2010), 1.4::artist:mozuku_(iiiiiiimomo)::, 1.1::artist:orgoglioso_banane::"
+  },
+  {
+   "id": "s148",
+   "name": "Корея · Чиби-аниме, жёлто-зелёный",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "1.1::artist:hama chon::, 1.2::artist:nogiwa kaede::, 1.4::artist:zankuro::, 0.7::artist:gogalking::, artist:channel (caststation), 1.22::artist:tianliang duohe fangdongye::, 1.4::artist:imoko (imonatsuki)::"
+  },
+  {
+   "id": "s149",
+   "name": "Корея · Вайфу, пурпурный закат",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "Artist:aiue oka, 0.8::Artist:Takeda hiromitsu::, 1.5::artist:alp::, 0.6::Artist:ahemaru::, artist:ulrich, 0.3::artist:asanagi::"
+  },
+  {
+   "id": "s150",
+   "name": "Корея · Светлый семи-риал, блики на воде",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "0.2::96yottea::, 0.9::artist:ie_(raarami)::, 0.7::hyulla::, 0.7::artist:kim hyung tae::, 0.8::shanguier::, 0.8::artist:alzi xiaomi::, 0.7::artist:lizchief::, 0.1::artist:akai 999 ::, 2.5::artist:kidmo::, 1.1::artist:zero q 0q::"
+  },
+  {
+   "id": "s151",
+   "name": "Корея · Бледная плоская иллюстрация",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "0.4::artist:eichi turnr, artist:shin (sinsin12121), artist:hwan (mob hwan)::, 1.3::artist:naku (naku999ziye), artist:yuzuriha (nx e78)::, artist:tianliang duohe fangdongye, artist:driftwoodwolf, artist:ka (996beshi), artist:sakon04, 0.7::artist:namiki itsuki, artist:baocaizi, artist:hwansang::"
+  },
+  {
+   "id": "s152",
+   "name": "Корея · Витражная живопись, синие тени",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "0.9::artist:zuizi::, 0.7::artist:aoi ogata, artist:cocoballking, artist:csyday, artist:k-suwabe, artist:jonpei, artist:bloomminority::, 1.1::artist:wlop, artist:pigeon666, artist:mebaru::, 0.8::artist:quasarcake, artist:kawacy, artist:kadeart::, artist:ezu (e104mjd), artist:maccha (mochancc), 0.6::artist:hen-tie, artist:tobu (bilibil), artist:cutesexyrobutts::"
+  },
+  {
+   "id": "s153",
+   "name": "Корея · Светлая манхва, белый свет",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "0.6::artist:creamyghost, artist:yyb::, 0.7::artist:huli xiaobai, artist:ndsoda, artist:bm94199 ::, artist:aussummer, artist:inuo (inuo x), artist:xiandao1213, 0.9::artist:hwan (mob hwan), artist:teeniika, artist:remsrar::, 1.1::artist:ea ateu, artist:toriyoshi::"
+  },
+  {
+   "id": "s154",
+   "name": "Корея · Моэ, каштановые волны, блёстки",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "3::artist:kim hung tae::, 2::artist:kkuem, artist:anmi::, 1.5::artist:ahemaru, artist:rhasta, artist:obui, artist:blue gk::, 0.8::artist:cutesexyrobutts, artist:mika pikazo::"
+  },
+  {
+   "id": "s155",
+   "name": "Корея · Мягкий аниме, белый блик",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "1.6::artist:mayogii::, artist:teshima nari, artist:konya karasue, 0.2::artist:ie (raarami)::, 0.4::artist:maeka (kumaekake)::, 0.5::artist:modare::, 0.4::artist:shexyo::, 0.4::artist:takarai shunsuke::, 0.5::artist:au (d elete)::"
+  },
+  {
+   "id": "s156",
+   "name": "Корея · Простая линия, пудровая пастель",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "1.6::artist:asou (asabu202)::, 1.1::artist:miregeist::, 0.5::artist:ano (gccx8784)::, 0.3::artist:yabuki kentarou::, 0.1::artist:shexyo::"
+  },
+  {
+   "id": "s157",
+   "name": "Корея · Алый закат, насыщенный контраст",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "1.2::artist: yamamoto souichirou::, 1.1::artist:henriiku (ahemaru)::, 1.2::artist:chomoran::, hitobashira (1746164306), 1.5::ie (raarami)::, 0.7::artist:maki keigo::, 1.2::artist:sparrowl::, artist:ssambatea, 0.6::artist:rei (sanbonzakura)::, 0.4::artist:tianliang duohe fangdongye::, 0.6::artist:teshima nari::, artist:inoue kiyoshirou"
+  },
+  {
+   "id": "s158",
+   "name": "Корея · Реализм, кукольное лицо",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "artist:wlop, artist:raikoart, artist:bm94199, artist:wanke, artist:daehocha, artist:shimhaq, artist:freng, artist:anniechromes, artist:hirota tsuu, artist:kidmo"
+  },
+  {
+   "id": "s159",
+   "name": "Корея · Тёмно-красный аниме, острые тени",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "artist:nyantcha, artist: kittew, artist:huhi_(huhi_1211), artist:gogalking, artist:satou aji, artist:taaru (taru), artist:soukou_makura, artist:henriiku (ahemaru)"
+  },
+  {
+   "id": "s160",
+   "name": "Корея · Детский рисунок, румяные щёки",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "0.3::artist:reddizen, artist:chronozbergh::, 0.4::artist:henriiku (ahemaru)::, 2::artist:dayama, artist:komori kamome::"
+  },
+  {
    "id": "umwti2xai",
    "name": "добавить нада",
    "model": "v5",
