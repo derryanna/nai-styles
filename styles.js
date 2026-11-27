@@ -1457,6 +1457,14 @@ window.LIB = {
    "drawn": "v5",
    "house": false,
    "tags": "year 2026, year 2025, anime coloring, anime screenshot, -1.2::flat color::0.3::3d::0.4::flim grain::2d, 0.8::artist:yoneyama mai::0.7::artist:ciloranko::0.5::artist:doremi (doremi4704):: depthness, chromatic aberration, animated, promotional art, {{{volumetric lighting, depth of field, best quality, amazing quality, very aesthetic, highres, incredibly absurdres}}}, {colorful}, ultra complexity, very aesthetic, best illustration, novel illustration, masterpiece, -2::artist collaboration:: -1::simple illustration::"
+  },
+  {
+   "id": "umwys7onk",
+   "name": "хз5 (напомнил баобей)",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "medium complexity, -6.0::artist collaboration::, 1.25::redrawn ::, 1.4:: detailed anatomy::, -0.7::painterly::, -1.0::anime coloring::, artist:hungry clicker, artist:dgkamikaze, artist:taotao, 1.1::artist:yunsang::, 1.2::artist:inoue kiyoshirou::, 0.65::artist:nvl::, 0.8::artist:hizuki akira::, 0.6::artist:ikuchan kaoru, artist:ebora::, 0.3::artist:jonpei::, year 2026, year 2025"
   }
  ]
 };
