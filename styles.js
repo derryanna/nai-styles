@@ -1465,6 +1465,14 @@ window.LIB = {
    "drawn": "v5",
    "house": false,
    "tags": "medium complexity, -6.0::artist collaboration::, 1.25::redrawn ::, 1.4:: detailed anatomy::, -0.7::painterly::, -1.0::anime coloring::, artist:hungry clicker, artist:dgkamikaze, artist:taotao, 1.1::artist:yunsang::, 1.2::artist:inoue kiyoshirou::, 0.65::artist:nvl::, 0.8::artist:hizuki akira::, 0.6::artist:ikuchan kaoru, artist:ebora::, 0.3::artist:jonpei::, year 2026, year 2025"
+  },
+  {
+   "id": "umwysbjri",
+   "name": "крутой оч",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "1.95::horikoshi kouhei::, 0.05::artist:shexyo::, 0.5::artist:inoue_kiyoshirou::, 0.75::artist:anteiru:: 1::artist:gogalking ::, 1.15::artist:haze_(7h4ze) ::, 1.2::artist:mx2j::, 1.5::artist:yoneyama mai::, 0.75::artist:pigeon666, :: 0.5::artist:yesman_(cvbnyesman) ::, 0.5::artist:hintobento::, 0.3::artist:takeda hiromitsu::, 0.15::artist:nyantcha::, year 2024, year 2025, year 2026, 0.2::high complexity::,1.5::background with high complexity ::, 1::Digital illustration::, best quality, amazing quality, very aesthetic, 1::very aesthetic::, 1.5::abusdres::, 1.5:: best illustration ::, 3::masterpiece::, -1::simple illustration::, -1::artist collaboration::, 0.8::cel shading::, 0.3::low saturation ::, 1::Soft colors::"
   }
  ]
 };
