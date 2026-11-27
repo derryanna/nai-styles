@@ -2153,6 +2153,46 @@ window.LIB = {
    "kinds": []
   },
   {
+   "id": "s174",
+   "name": "Глитч-закат · чистый",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "year 2026, masterpiece, best quality, very aesthetic, highly detailed, absurdres, highres, 2::incredibly thick black outlines with digital static::, blurred edges, glitched sunset, the sky is made from jpeg artifacts, 0.75::stardust droplets::, 1.0::high contrast::, vivid saturated colors, 0.8::forced perspective::",
+   "k": "05d0662907",
+   "kinds": []
+  },
+  {
+   "id": "s175",
+   "name": "Стикер-сплэш · чистый",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "year 2026, masterpiece, best quality, very aesthetic, highly detailed, absurdres, highres, 1.2::white outline::, sticker, 1.1::splatter background::, simple background, 0.8::purple theme::, 0.8::pink theme::, atmospheric perspective, 0.8::dynamic pose::",
+   "k": "59ba00866f",
+   "kinds": []
+  },
+  {
+   "id": "s176",
+   "name": "Шариковая ручка · чистый",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "0.7::blue::, 0.7::red::, 0.7::purple::, ballpen (medium), 3::anime pastel colour::, 2::thick black outline::, 1.3::detailed eyes::, blurred edges outlines with digital static, dynamic depth of field, 1.5::water droplets::, 3::best quality, absurdres, very aesthetic, highres, ultra-detailed::, year 2026",
+   "k": "d60b8d35bc",
+   "kinds": []
+  },
+  {
+   "id": "s177",
+   "name": "Ар-нуво · чистый",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "1.3::masterpiece, best quality, amazing quality, very aesthetic, ultra detailed, highres, absurdres::, year 2026, ultra complexity, lithography, art nouveau, digital illustration, gradient shading, clear coloring, high contrast, soft painting, thin outlines, 0.7::ornate frame::, 0.6::vintage::, 0.6::muted colors::",
+   "k": "b7d92ca042",
+   "kinds": []
+  },
+  {
    "id": "umwti2xai",
    "name": "добавить нада",
    "model": "v5",
