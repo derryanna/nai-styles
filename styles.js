@@ -1409,6 +1409,14 @@ window.LIB = {
    "drawn": "v5",
    "house": false,
    "tags": "0.6:: artist:min_(120716),0.2:: kaiaik (zheliakaina),0.4:: rolua,0.8:: nueegochi,0.9:: yoneyama_mai,0.7:: sixii,::,year 2025,3:: clean linert,::stunning composition, -3::highly finished,city,text ::, -5::Smooth lines::, 5::best quality, absurdres, very aesthetic, detailed, masterpiece::"
+  },
+  {
+   "id": "umwys0zvs",
+   "name": "Lunch · графика и масло",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "2.3::artist:lunch (lunchicken):: 1.2::artist:dal_li_0130 :: 0.4::artist:mochizuki kei::, 0.3::artist:quuni::, 1.7::artist:liduke::, 0.9::artist:krenz, :: 1.2::void_0 ::0.2::artist:momisan,:: 1.4::artist:healthyman:: :: 1::artist:arl,:: 0.8::artist:akipeko,1.2::artist:suzumi_(ccroquette)::, 0.9::artist:mgmg_1012 ::0.8::artist:zero_q_0q:: ,year 2025, year 2026, soft shading, high quality, best quality, masterpiece, ultra-detailed, detailed shading, vibrant colors, natural shadows, atmospheric perspective, highres, color harmony, balanced contrast, smooth gradients, depth of field, subtle bloom, very aesthetic, novel illustration, -0.1::censored::, ,masterpiece, CG-game-CG, 3::vector trace, clear line, bold line, simple line::,6::line_clare, :: 3::tegaki,:: 1.5::oil painting (medium)::"
   }
  ]
 };

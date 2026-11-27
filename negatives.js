@@ -54,6 +54,14 @@ window.NEG = {
     "umwys07q2"
    ],
    "text": "lowres, artistic error, film grain, scan artifacts, worst quality, bad quality, jpeg artifacts, very displeasing, chromatic aberration, dithering, halftone, screentone, multiple views, logo, too many watermarks, negative space, blank page, {bad}, error, fewer, extra, missing, watermark, unfinished, displeasing, signature, extra digits, username, scan, [abstract], bad anatomy, bad hands, @_@, mismatched pupils, {cubism}, {worst quality}, {normal quality}, {bad quality}, {{{{unskillful}}}}, {unfinished}, {incomplete}, {{failure}}, {inferior}, {terrifying}, {haunting}, {bad joint}, {monster}, {ugly}, {retro artstyle}, {key}, low quality, disfigured, poorly drawn, deformed, mutation, fused fingers, fused limb, extra limb, missing fingers, missing limb, missing digit, missing legs, disappearing arms, extra limbs, aged up, old, long neck, long body, rib, dusty sunbeams, depth of field, bokeh, out of focus, blurry, text, title, lineart, simple illustration, 3::anatomical nonsense::, upscaled, fewer details, incomplete, cheesy, unsatisfactory, inadequate, deficient, subpar, poor"
+  },
+  {
+   "id": "nmwys0zvt",
+   "name": "К стилю «Lunch · графика и масло»",
+   "styles": [
+    "umwys0zvs"
+   ],
+   "text": "lowres, bad hands, bad anatomy, artistic error, sepia, white haze, worst quality, very displeasing, jpeg artifacts, 0::ai-generated::, {bad}, error, fewer, extra, missing, bad quality, watermark, unfinished, displeasing, chromatic aberration, signature, extra digits, username, scan, [abstract], @_@, mismatched pupils, {cubism}, {worst quality}, {normal quality}, {bad quality}, {{{{unskillful}}}}, {unfinished}, {incomplete}, {{failure}}, {inferior}, {terrifying}, {haunting}, {bad joint}, {monster}, {ugly}, {retro artstyle}, {key}, low quality, disfigured, poorly drawn, deformed, mutation, fused fingers, fused limb, extra limb, missing fingers, missing limb, missing digit, missing legs, disappearing arms, extra limbs, aged up, old, long neck, long body, rib, dusty sunbeams, depth of field, bokeh, out of focus, blurry, text, title, lineart, dithering, simple illustration, 3::anatomical nonsense::, upscaled, fewer details, incomplete, cheesy, unsatisfactory, inadequate, deficient, subpar, poor, scan artifacts, 5::artist collaboration::::artist:bkub, artist:bb (baalbuddy), artist:neocoill, artist:gaoo (frpjx283), artist:yukito (dreamrider), artist:konoshige (ryuun), artist:milkpanda, artist:nameo (judgemasterkou)::"
   }
  ]
 };
