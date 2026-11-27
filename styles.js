@@ -2030,7 +2030,7 @@ window.LIB = {
    "model": "any",
    "drawn": "v5",
    "house": false,
-   "tags": "lemon89h, 0.5:🧑‍🎨zero q 0q ::, year 2025, oekaki, -2::unfinished::, 1.7:🧑‍🎨suzumi_(ccroquette)::, 0.2:🧑‍🎨n_sol::, absurdres, year 2026, artist:dang0 23, 1.2:🧑‍🎨faxparduo::, 0.8:🧑‍🎨aransmind::, artist::east_100, artist:angrymiloras, sun glints",
+   "tags": "lemon89h, 0.5:artist:zero q 0q ::, year 2025, oekaki, -2::unfinished::, 1.7:artist:suzumi_(ccroquette)::, 0.2:artist:n_sol::, absurdres, year 2026, artist:dang0 23, 1.2:artist:faxparduo::, 0.8:artist:aransmind::, artist::east_100, artist:angrymiloras, sun glints",
    "k": "db2803d41c",
    "kinds": []
   },
@@ -2112,7 +2112,7 @@ window.LIB = {
    "model": "any",
    "drawn": "v5",
    "house": false,
-   "tags": "0.9:🧑‍🎨toma (toma50)::, artist:iuui, 1.5:🧑‍🎨92m::, 1.1:🧑‍🎨ikeuchi tanuma::, 1.8:🧑‍🎨mery (yangmalgage)::",
+   "tags": "0.9:artist:toma (toma50)::, artist:iuui, 1.5:artist:92m::, 1.1:artist:ikeuchi tanuma::, 1.8:artist:mery (yangmalgage)::",
    "k": "32157c3faf",
    "kinds": []
   },
@@ -2122,7 +2122,7 @@ window.LIB = {
    "model": "any",
    "drawn": "v5",
    "house": false,
-   "tags": "artist:soreeyu_(sore-yu), artist:invaderdarling, 0.8:🧑‍🎨kerberos_(kerbe_)::, 0.5:🧑‍🎨amatou_akuma::, 0.2:🧑‍🎨hanavbara::",
+   "tags": "artist:soreeyu_(sore-yu), artist:invaderdarling, 0.8:artist:kerberos_(kerbe_)::, 0.5:artist:amatou_akuma::, 0.2:artist:hanavbara::",
    "k": "d31ce0e9c1",
    "kinds": [
     "Мульт"
@@ -2262,7 +2262,7 @@ window.LIB = {
    "model": "any",
    "drawn": "v5",
    "house": false,
-   "tags": "0.8:🧑‍🎨try(lsc))::, 0.6:🧑‍🎨Ame (Uten Cancel)::, 0.5:🧑‍🎨horikoshi kouhei::, 0.4:🧑‍🎨gogalking::, 0.3:🧑‍🎨meion::, 0.2:🧑‍🎨reagan long::, 0.15:🧑‍🎨mx2j::, year 2025, year 2026, newest, masterpiece, amazing quality, best quality, very aesthetic, highres, incredibly absurdres, flat color, fine details, cinematic lighting, 2::jaggy lines::, comic shading, -3::artist collaboration, monochrome::, -1::flat color::, no lineart, breasts apart::",
+   "tags": "0.8:artist:try(lsc))::, 0.6:artist:Ame (Uten Cancel)::, 0.5:artist:horikoshi kouhei::, 0.4:artist:gogalking::, 0.3:artist:meion::, 0.2:artist:reagan long::, 0.15:artist:mx2j::, year 2025, year 2026, newest, masterpiece, amazing quality, best quality, very aesthetic, highres, incredibly absurdres, flat color, fine details, cinematic lighting, 2::jaggy lines::, comic shading, -3::artist collaboration, monochrome::, -1::flat color::, no lineart, breasts apart::",
    "k": "e3006b5f24",
    "kinds": []
   },
@@ -2272,7 +2272,7 @@ window.LIB = {
    "model": "any",
    "drawn": "v5",
    "house": false,
-   "tags": "ark korean webtoon, gangster manhwa, 1.2:🧑‍🎨faxparduo ::, 0.5:🧑‍🎨juneseo ::, 0.9:🧑‍🎨nnk (nongnong) ::, 1.0:🧑‍🎨en (e898n) ::, 1.2:🧑‍🎨dang0 23 ::, 1.0:🧑‍🎨songjikyo::, 0.6:🧑‍🎨zhumojian::, year 2026, colored lineart, 0.8::painterly rendering ::, 1.2::dramatic lighting ::, chiaroscuro, high contrast, 1.1::muted colors ::, limited palette, dark, shadow, detailed face, clear facial features, beautiful well-proportioned face, nose, lips, realistic eyes, 1.2::handsome people ::, 1.2::adult ::, 0.8::skin texture ::, flyaway hair, detailed hair strands, night, city lights, 0.6::neon lights ::, 0.4::rain ::, 0.5::smoke ::, best quality, highres, highly detailed, crisp details, defined edges, high complexity",
+   "tags": "ark korean webtoon, gangster manhwa, 1.2:artist:faxparduo ::, 0.5:artist:juneseo ::, 0.9:artist:nnk (nongnong) ::, 1.0:artist:en (e898n) ::, 1.2:artist:dang0 23 ::, 1.0:artist:songjikyo::, 0.6:artist:zhumojian::, year 2026, colored lineart, 0.8::painterly rendering ::, 1.2::dramatic lighting ::, chiaroscuro, high contrast, 1.1::muted colors ::, limited palette, dark, shadow, detailed face, clear facial features, beautiful well-proportioned face, nose, lips, realistic eyes, 1.2::handsome people ::, 1.2::adult ::, 0.8::skin texture ::, flyaway hair, detailed hair strands, night, city lights, 0.6::neon lights ::, 0.4::rain ::, 0.5::smoke ::, best quality, highres, highly detailed, crisp details, defined edges, high complexity",
    "k": "1d84ba1f64",
    "kinds": [
     "Манхва",
