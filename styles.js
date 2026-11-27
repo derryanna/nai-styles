@@ -1441,6 +1441,14 @@ window.LIB = {
    "drawn": "v5",
    "house": false,
    "tags": "realistic, jaggy lines, abstract, 1.5::game cg, film grain, artist:solipsist, artist:croriin::, 1::aritst:ie (raarami), artist:teshima nari, artist:Mx2J::, 1::artist:sparrowl, artist:yoneyama mai, artist:hiro (dismaless)::, 0.7::artist:nonco, artist:sohn woohyoung::, 0.8::artist:inoue kiyoshirou, artist:mika pikazo, artist:john kafka, artist:lonklink::, 1::artist:sarcophage, artist:chomoran:: year 2026, year 2025, year 2024, 1::no text::, -1::flat color::, -1::text::, -2::shiny skin::, -3::artist collaboration, simple illustration::, detailed skin texture, incredibly absurdres, novel illustration, best illustration, photorealistic, detailed shading, amazing quality, anime coloring, expert shading, very aesthetic, high detailed, pastel colors, best quality, masterpiece, glossy skin, year 2026, year 2025, year 2024, highres"
+  },
+  {
+   "id": "umwys5tp3",
+   "name": "хз3",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "1.5::solo artist::, -7::artist collaboration::, 1.4::artist:wada arco::, 1.4::healthyman::, 0.4::freng::, 0.9::teshima nari::, 0.6::ebora::, 0.4::ryuuforkaf::, 0.5::ie_(raarami)::, 1.1::imamura ryou::, -4::flat color ::, -2.2::monochrome::, meta:novel era, year 2026, 1.5::hard-opacity jaggy thin lines::, 2::black line::, -0.5::tired eyes::, -0.5::Half-closed eyes::, 2::sharp facial features::, Handwritten, 3d, subsurface scattering, depthness, 0.2::Detail shading::, visual novel cg, natural, sharp focus, incredibly absurdres, very aesthetic, highres, masterpiece, best quality, amazing quality, -1.5::simple illustration ::, 3::high complexity::, 2::Ultra complexity::, best illustration, novel illustration, -1::censored ::"
   }
  ]
 };
