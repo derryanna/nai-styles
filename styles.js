@@ -1393,6 +1393,14 @@ window.LIB = {
    "drawn": "v5",
    "house": false,
    "tags": "5::mimoza_(96mimo414)::,0.8::TheFlatfacadeds,shikisokuzeku76_::,tianliang_duohe_fangdongye,jacknife,yyb,0.7::omone_hokoma_agm:: HDR,通透画面,high dynamic range,-2::brightened::,-2::overexposure::, high complexity,high quality,best quality,-2::yellow themed,orange themed::,-2::sallow skin::,-2::warm colored::,-1::blue themed::,latest,newest,year 2026,year 2025"
+  },
+  {
+   "id": "umwyrxkq3",
+   "name": "Game CG · глянцевый покрас",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "1.6::artist:iumu, artist:wanke ::, 2::artist:ohisashiburi ::, 0.8::artist:doremi (doremi4704) ::, 0.7::artist:murata yuusuke, artist:qiandaiyiyu, artist:yoya yogurt ::, artist:kararage tsune, artist:waterring, 1.6::artist:mikozin, artist:nikku nana ::, -6::artist collaboration ::, 3::year 2026 ::, 3::year 2025 ::, -1::official art, official style ::, masterpiece, best quality, very awa, high complexity, 1::black outline, thick lines ::, small head, 3::game cg, anime screencap ::, 1.1::saturated colors::, 2::delicate hues::, 2::detailed skin, detailed texture, detailed eyes ::, 2::deep skin, shiny skin, glossy skin ::, 0.5::dynamic lighting ::, -3::backlighting ::, 2::soft lighting, soft shading, cel rendering ::, -1::anime coloring ::, 3d, blender (medium), -5::high saturation ::, 2::vibrant color ::, -2::muted color ::, -2::pale color ::, -2::pastel colors ::, -3::production art ::, -3::reference sheet, anatomical nonsense ::, -3::comic ::, best illustration, novel illustration"
   }
  ]
 };
