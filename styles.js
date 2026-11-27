@@ -1401,6 +1401,14 @@ window.LIB = {
    "drawn": "v5",
    "house": false,
    "tags": "1.6::artist:iumu, artist:wanke ::, 2::artist:ohisashiburi ::, 0.8::artist:doremi (doremi4704) ::, 0.7::artist:murata yuusuke, artist:qiandaiyiyu, artist:yoya yogurt ::, artist:kararage tsune, artist:waterring, 1.6::artist:mikozin, artist:nikku nana ::, -6::artist collaboration ::, 3::year 2026 ::, 3::year 2025 ::, -1::official art, official style ::, masterpiece, best quality, very awa, high complexity, 1::black outline, thick lines ::, small head, 3::game cg, anime screencap ::, 1.1::saturated colors::, 2::delicate hues::, 2::detailed skin, detailed texture, detailed eyes ::, 2::deep skin, shiny skin, glossy skin ::, 0.5::dynamic lighting ::, -3::backlighting ::, 2::soft lighting, soft shading, cel rendering ::, -1::anime coloring ::, 3d, blender (medium), -5::high saturation ::, 2::vibrant color ::, -2::muted color ::, -2::pale color ::, -2::pastel colors ::, -3::production art ::, -3::reference sheet, anatomical nonsense ::, -3::comic ::, best illustration, novel illustration"
+  },
+  {
+   "id": "umwys07q2",
+   "name": "Min · выразительная линия",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "0.6:: artist:min_(120716),0.2:: kaiaik (zheliakaina),0.4:: rolua,0.8:: nueegochi,0.9:: yoneyama_mai,0.7:: sixii,::,year 2025,3:: clean linert,::stunning composition, -3::highly finished,city,text ::, -5::Smooth lines::, 5::best quality, absurdres, very aesthetic, detailed, masterpiece::"
   }
  ]
 };
