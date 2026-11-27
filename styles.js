@@ -1481,6 +1481,14 @@ window.LIB = {
    "drawn": "v5",
    "house": false,
    "tags": "0.8:🧑‍🎨try(lsc))::, 0.6:🧑‍🎨Ame (Uten Cancel)::, 0.5:🧑‍🎨horikoshi kouhei::, 0.4:🧑‍🎨gogalking::, 0.3:🧑‍🎨meion::, 0.2:🧑‍🎨reagan long::, 0.15:🧑‍🎨mx2j::, year 2025, year 2026, newest, masterpiece, amazing quality, best quality, very aesthetic, highres, incredibly absurdres, flat color, fine details, cinematic lighting, 2::jaggy lines::, comic shading, -3::artist collaboration, monochrome::, -1::flat color::, no lineart, breasts apart::"
+  },
+  {
+   "id": "umwysmc63",
+   "name": "Тёмный корейский вебтун, гангстеры, v2",
+   "model": "any",
+   "drawn": "v5",
+   "house": false,
+   "tags": "ark korean webtoon, gangster manhwa, 1.2:🧑‍🎨faxparduo ::, 0.5:🧑‍🎨juneseo ::, 0.9:🧑‍🎨nnk (nongnong) ::, 1.0:🧑‍🎨en (e898n) ::, 1.2:🧑‍🎨dang0 23 ::, 1.0:🧑‍🎨songjikyo::, 0.6:🧑‍🎨zhumojian::, year 2026, colored lineart, 0.8::painterly rendering ::, 1.2::dramatic lighting ::, chiaroscuro, high contrast, 1.1::muted colors ::, limited palette, dark, shadow, detailed face, clear facial features, beautiful well-proportioned face, nose, lips, realistic eyes, 1.2::handsome people ::, 1.2::adult ::, 0.8::skin texture ::, flyaway hair, detailed hair strands, night, city lights, 0.6::neon lights ::, 0.4::rain ::, 0.5::smoke ::, best quality, highres, highly detailed, crisp details, defined edges, high complexity"
   }
  ]
 };
