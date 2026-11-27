@@ -1425,6 +1425,14 @@ window.LIB = {
    "drawn": "v5",
    "house": false,
    "tags": "2.3::artist:lunch (lunchicken):: 1.2::artist:dal_li_0130 :: 0.4::artist:mochizuki kei::, 0.3::artist:quuni::, 1.5::artist:liduke::, 0.9::artist:krenz, :: 1.2::void_0 :: 0.2::artist:momisan,:: 1.4::artist:healthyman:: :: 1::artist:arl,:: 0.8::artist:akipeko, 1.2::artist:suzumi_(ccroquette)::, 0.9::artist:mgmg_1012 ::0.8::artist:zero_q_0q:: ,detailed eyes, year 2025, year 2026, soft shading, high quality, best quality, masterpiece, ultra-detailed, detailed shading, vibrant colors, natural shadows, atmospheric perspective, highres, color harmony, balanced contrast, smooth gradients, depth of field, subtle bloom, very aesthetic, -0.1::censored::, ,masterpiece, 4::line_clare, :: 3::tegaki,:: 2::vector trace, clear line::"
+  },
+  {
+   "id": "umwys46d6",
+   "name": "хз1",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "<artist> 0.8::artist:yoneyama mai::, 0.7::artist:ciloranko::, 0.5::artist:doremi (doremi4704):: </artist>, <style> year 2026, year 2025, anime coloring, anime screenshot, -1.2::flat color::, 0.3::3d::, 0.4::flim grain::, 2d, lens flare, depthness, chromatic aberration, animated, promotional art, {{{volumetric lighting, depth of field, best quality, amazing quality, very aesthetic, highres, incredibly absurdres}}}, {colorful}, ultra complexity, very aesthetic, best illustration, novel illustration, masterpiece, -2::artist collaboration::, -1::simple illustration::, no text </style>"
   }
  ]
 };
