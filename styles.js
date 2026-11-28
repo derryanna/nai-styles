@@ -2568,6 +2568,16 @@ window.LIB = {
    "kinds": [
     "Семи-риал"
    ]
+  },
+  {
+   "id": "umwzu0q6g",
+   "name": "Ushikani · ensemble mix",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "1::artist:ushikani kassen ::, 0.8::artist:yumesaki eden ::, 0.7::artist:geulimykun (skbyunea413) ::, 0.8::artist:seoyong ::, 0.5::artist:kunaboto ::, 0.5::artist:healthyman ::, 0.8::artist:wagashi (dagashiya) ::, 0.3::artist:nyantcha ::, 0.4::artist:ie (raarami) ::, 0.6::artist:kafun ::, 0.7::artist:poper (arin sel) ::, 0.8::artist:ebora ::, 0.9::artist:toma (toma50) ::, 1::artist:takano suzu ::, -2::simple illustration ::, -3::artist collaboration ::, -2::official style, official art :: year 2026, year 2025, highres, very aesthetic, best quality, amazing quality, incredibly absurdres, best illustration",
+   "k": "f261abd1c2",
+   "kinds": []
   }
  ]
 };
