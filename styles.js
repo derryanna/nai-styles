@@ -2486,7 +2486,7 @@ window.LIB = {
   },
   {
    "id": "umwys7onk",
-   "name": "хз5 (напомнил баобей)",
+   "name": "Hungry Clicker · anatomy",
    "model": "v5",
    "drawn": "v5",
    "house": false,
