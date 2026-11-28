@@ -2466,7 +2466,7 @@ window.LIB = {
   },
   {
    "id": "umwys5tp3",
-   "name": "хз3",
+   "name": "Wada Arco · sharp VN",
    "model": "v5",
    "drawn": "v5",
    "house": false,
