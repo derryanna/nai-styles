@@ -2314,15 +2314,13 @@ window.LIB = {
   },
   {
    "id": "umwyon54h",
-   "name": "пиксельарт",
+   "name": "Pixel · Dithering",
    "model": "any",
    "drawn": "v5",
    "house": false,
    "tags": "2.0::pixel art, dithering ::, 1.0::aduare ::, 0.7::artist:Nia (0122) ::, 0.6::namako daibakuhatsu ::, 0.76::healthyman ::, 1.5::artist:ryuuforkaf ::, 1.4::artist:nao_(syn_eaa) ::, 1.1::2n5 ::, 0.8::artist:teshima_nari ::, 1.5::kezime ::, jaggy lines, realistic, -2::artist collaboration ::",
    "k": "b5533245b8",
-   "kinds": [
-    "Арт"
-   ]
+   "kinds": []
   },
   {
    "id": "umwyon55w",
