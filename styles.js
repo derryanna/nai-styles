@@ -2476,7 +2476,7 @@ window.LIB = {
   },
   {
    "id": "umwys6bsg",
-   "name": "хз4",
+   "name": "Yoneyama · screenshot",
    "model": "v5",
    "drawn": "v5",
    "house": false,
