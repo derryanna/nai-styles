@@ -2588,6 +2588,16 @@ window.LIB = {
    "tags": "0.05::artist:shexyo::, 0.5::artist:inoue_kiyoshirou::, 0.75::artist:anteiru:: 1::artist:gogalking ::, 1.15::artist:haze_(7h4ze) ::, 1.2::artist:mx2j::, 1.5::artist:yoneyama mai::, 0.75::artist:pigeon666, :: 0.5::artist:yesman_(cvbnyesman) ::, 0.5::artist:hintobento::, 0.3::artist:takeda hiromitsu::, 0.15::artist:nyantcha::,year 2026, year 2025, oiled, shiny skin, deep skin, lustrous skin, 1.3::clear lines, black outlines, anime coloring:: -3::simple illustration::, -3::multiple images ::, -3::monochrome, greyscale:: -2::flat color::, -2::blurry:: -2.0::censored::, 1.25::highres, best quality::, very aesthetic, masterpiece, absurdres, best illustration, novel illustration",
    "k": "04175f8b49",
    "kinds": []
+  },
+  {
+   "id": "umwzu26rg",
+   "name": "Gogalking · bold contrast",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "1.19::artist:gogalking ::, 0.5::artist:nonco ::, 0.3::artist:tenchisouha ::, 0.8::artist:baffu ::, 0.83::artist:misaka 12003-gou::, 0.6::artist:mika pikazo ::, 0.6::artist:ratatatat74 ::, 0.55::freng ::,0.2:: ie (raarami)::, 0.5::tianliang_duohe_fangdongye::, 0.5::kidmo::, 2::dim lighting, :: ::blender (medium)::, colorful, detailed eyes, 2::thick lineart::, 1.2:: shiny skin, defined shadows, deep shadows::, 1.8::strong light-shadow contrast:: , 4::high detail ::,-4:: flat color, ::, -3::simple illustration, monochrome, wet, simple back ground::, , -1::no lineart, neon::, -4::abs::, 0.1::artist collaboration::,1.5::Masterpiece, very aesthetic, best quality:: , year 2026, year 2025",
+   "k": "08baeef3f1",
+   "kinds": []
   }
  ]
 };
