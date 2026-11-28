@@ -2456,7 +2456,7 @@ window.LIB = {
   },
   {
    "id": "umwys4umi",
-   "name": "хз2",
+   "name": "Solipsist · realistic CG",
    "model": "v5",
    "drawn": "v5",
    "house": false,
