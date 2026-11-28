@@ -2598,6 +2598,16 @@ window.LIB = {
    "tags": "1.19::artist:gogalking ::, 0.5::artist:nonco ::, 0.3::artist:tenchisouha ::, 0.8::artist:baffu ::, 0.83::artist:misaka 12003-gou::, 0.6::artist:mika pikazo ::, 0.6::artist:ratatatat74 ::, 0.55::freng ::,0.2:: ie (raarami)::, 0.5::tianliang_duohe_fangdongye::, 0.5::kidmo::, 2::dim lighting, :: ::blender (medium)::, colorful, detailed eyes, 2::thick lineart::, 1.2:: shiny skin, defined shadows, deep shadows::, 1.8::strong light-shadow contrast:: , 4::high detail ::,-4:: flat color, ::, -3::simple illustration, monochrome, wet, simple back ground::, , -1::no lineart, neon::, -4::abs::, 0.1::artist collaboration::,1.5::Masterpiece, very aesthetic, best quality:: , year 2026, year 2025",
    "k": "08baeef3f1",
    "kinds": []
+  },
+  {
+   "id": "umwzu330c",
+   "name": "Freng · ethereal glow",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "0.7::artist:sushispin::, 0.8::artist:Yknsugar,:: 1.2::artist_pigeon666,:: 1.2::artist:le_(szs0k)::, 0.5::artist:narue::, 0.2::artist:takeshima eku::, 0.4::artist:ratatatat74, 1.3::artist:masha::, 1.2::artist:patzzi,:: ixy, 1.5::masterpiece, shiny skin, soft anatomy::, 1.6::artist:freng::, 0.7::artist:rifleman1130,:: 0.5::artist:arktic::, 0.3::artist:desert_(deserteagle0321)::,0.2::artist:clov3r::, intricate iris details, aesthetic detailed eyes, aesthetic detailed eyelashes, cinematic lighting, warm lighting, volumetric light, full clothes, very aesthetic, masterpiece, no text, color theme, 0.15::pastel colors::, 2::hue shifting, shifted color palette::, very aesthetic glowing light, vivid cerulean colors, dreamy and ethereal japanese atmosphere, {{year 2025, year 2026}}, -1::artist collaboration ::, 0.5::sharp highlight ::, 0.7::humid skin ::, 0.9::detailed skin texture ::,vivid colors, glossy skin, high contrast, glistening skin, soft colors, dynamic lighting, soft shadows, best illumination, best shadow, year 2025, best quality, amazing quality, highly detailed, very aesthetic, highres, absurdres, 8k image, 8k wallpaper, -1::high saturation ::, -1::production art ::, -1::reference sheet ::, -1::blurry ::, glossy skin, oil skin, sharp focus",
+   "k": "fa6a4f55bf",
+   "kinds": []
   }
  ]
 };

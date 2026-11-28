@@ -182,6 +182,14 @@ window.NEG = {
     "umwzu26rg"
    ],
    "text": "nsfw, lowres, artistic error, film grain, scan artifacts, worst quality, bad quality, jpeg artifacts, very displeasing, chromatic aberration, dithering, halftone, screentone, multiple views, logo, too many watermarks, negative space, blank page, bar censor, nude, censored, {crotchless}, {bad}, error, fewer, extra, missing, watermark, unfinished, displeasing, signature, extra digits, username, scan, panties, [abstract], bad anatomy, bad hands, @_@, mismatched pupils, {cubism}, {worst quality}, {normal quality}, {bad quality}, {{{{unskillful}}}}, {unfinished}, {incomplete}, {{failure}}, {inferior}, {terrifying}, {haunting}, {bad joint}, {monster}, {ugly}, {retro artstyle}, {key}, low quality, disfigured, poorly drawn, deformed, mutation, fused fingers, fused limb, extra limb, missing fingers, missing limb, missing digit, missing legs, disappearing arms, extra limbs, aged up, old, long neck, long body, rib, dusty sunbeams, depth of field, bokeh, out of focus, blurry, text, title, breast apart, lineart, dark areolae, simple illustration, 3::anatomical nonsense::, upscaled, fewer details, incomplete, cheesy, unsatisfactory, inadequate, deficient, subpar, poor, artist:xinzoruo, artist:milkpanda, artist:bb (baalbuddy), artist:nameo (judgemasterkou), artist:gaoo (frpjx283), artist:bkub, artist:yuno385, artist collaboration"
+  },
+  {
+   "id": "nmwzu330d",
+   "name": "К стилю «Freng · ethereal glow»",
+   "styles": [
+    "umwzu330c"
+   ],
+   "text": "nsfw, lowres, artistic error, film grain, scan artifacts, worst quality, bad quality, jpeg artifacts, very displeasing, chromatic aberration, dithering, halftone, screentone, multiple views, logo, too many watermarks, negative space, blank page, bar censor, nude, censored, {crotchless}, {bad}, error, fewer, extra, missing, watermark, unfinished, displeasing, signature, extra digits, username, scan, panties, [abstract], bad anatomy, bad hands, @_@, mismatched pupils, {cubism}, {worst quality}, {normal quality}, {bad quality}, {{{{unskillful}}}}, {unfinished}, {incomplete}, {{failure}}, {inferior}, {terrifying}, {haunting}, {bad joint}, {monster}, {ugly}, {retro artstyle}, {key}, low quality, disfigured, poorly drawn, deformed, mutation, fused fingers, fused limb, extra limb, missing fingers, missing limb, missing digit, missing legs, disappearing arms, extra limbs, aged up, old, long neck, long body, rib, dusty sunbeams, depth of field, bokeh, out of focus, blurry, text, title, breast apart, lineart, dark areolae, simple illustration, 3::anatomical nonsense::, upscaled, fewer details, incomplete, cheesy, unsatisfactory, inadequate, deficient, subpar, poor, {{flat color}}, yuno385, artist:bkub, artist:neocoill, artist:gaoo (frpjx283), artist:yukito (dreamrider), artist:konoshige (ryuun), artist:milkpanda, artist:nameo (judgemasterkou)"
   }
  ]
 };
