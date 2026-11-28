@@ -2556,6 +2556,18 @@ window.LIB = {
    "tags": "1.5::yabuki_kentarou,::, 1.5::matanonki::, 0.5::artist:healthyman::, 0.7::hizuki akira ::, 0.3::freng, artist:blue gk::, 0.5::artist:quasarcake, 0.1::null (nyanpyoun) ::, 0.5::artist:doremi (doremi4704)::, 1::bm94199 :: , 0.8::wlop::, 1:: artist:nixeu::, year 2025, year 2024, -1:: flat color::, -3::artist collaboration::, -4:: blurry ::, -2::censored::, masterpiece, best quality, -1::muted color::,}}}}, 1::smooth gradients, detailed shading::, realistic skin texture, {best quality, amazing quality, very aesthetic, highres, incredibly absurdres}, -3.0::signature ::, -4::upscaled, blurry::, -6.0::artist collaboration ::",
    "k": "cbbef63736",
    "kinds": []
+  },
+  {
+   "id": "umwztztqt",
+   "name": "Dombear · realistic 3D",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "3d, blender(medium), realistic, 1.3::artist:dombear::, 1::artist:nekoya(nekodayo22)::, 1::artist:croriin::, 0.67::artist:nixeu::, 1.1::artist:yamakonbu::, 0.9::artist: happoubi jin::, 0.2::artist:melowh::, 0.2::artist:aomizuan::, year 2025, year 2026, newest, masterpiece, amazing quality, absurdres, very aesthetic, meta: novel era, depthness, high complexity, deep skin, realistic shading, very crisp, 1::glossy skin::, 1::cinematic lighting::, 1::volumetric lighting::, detailed body, 1.5::many lines in hair::, detailed iris, gentle curve, Intertriginous areas, subtle inguinal crease, 1.1::subsurface scattering::, 1.1::realistic skin texture::, 1.2::pores::, -1::transparent background::, -1::white highlight in eyes::, -1::censored::, -1::flat color::, -1::simple illustration::, -1::artist collaboration::",
+   "k": "f2f45c1c4c",
+   "kinds": [
+    "Семи-риал"
+   ]
   }
  ]
 };

@@ -150,6 +150,14 @@ window.NEG = {
     "umwztyxxl"
    ],
    "text": "nsfw, lowres, artistic error, film grain, scan artifacts, worst quality, bad quality, jpeg artifacts, very displeasing, chromatic aberration, dithering, halftone, screentone, multiple views, logo, too many watermarks, negative space, blank page, bar censor, nude, censored, {crotchless}, {bad}, error, fewer, extra, missing, watermark, unfinished, displeasing, signature, extra digits, username, scan, panties, [abstract], bad anatomy, bad hands, @_@, mismatched pupils, {cubism}, {worst quality}, {normal quality}, {bad quality}, {{{{unskillful}}}}, {unfinished}, {incomplete}, {{failure}}, {inferior}, {terrifying}, {haunting}, {bad joint}, {monster}, {ugly}, {retro artstyle}, {key}, low quality, disfigured, poorly drawn, deformed, mutation, fused fingers, fused limb, extra limb, missing fingers, missing limb, missing digit, missing legs, disappearing arms, extra limbs, aged up, old, long neck, long body, rib, dusty sunbeams, depth of field, bokeh, out of focus, blurry, text, title, breast apart, lineart, dark areolae, simple illustration, 3::anatomical nonsense::, upscaled, fewer details, incomplete, cheesy, unsatisfactory, inadequate, deficient, subpar, poor, official art, offical style, artist:xinzoruo, artist:milkpanda, artist:kurukurumagical, artist collaboration"
+  },
+  {
+   "id": "nmwztztqu",
+   "name": "К стилю «Dombear · realistic 3D»",
+   "styles": [
+    "umwztztqt"
+   ],
+   "text": "bar censor, nude, censored, {crotchless}, {bad}, error, fewer, extra, missing, worst quality, jpeg artifacts, bad quality, watermark, unfinished, displeasing, chromatic aberration, signature, extra digits, artistic error, username, scan, panties, [abstract], bad anatomy, bad hands, @_@, mismatched pupils, {cubism}, {worst quality}, {normal quality}, {bad quality}, {{{{unskillful}}}}, {unfinished}, {incomplete}, {{failure}}, {inferior}, {terrifying}, {haunting}, {bad joint}, {monster}, {ugly}, {retro artstyle}, {key}, low quality, disfigured, poorly drawn, deformed, mutation, fused fingers, fused limb, extra limb, missing fingers, missing limb, missing digit, missing legs, disappearing arms, extra limbs, aged up, old, long neck, long body, rib, dusty sunbeams, depth of field, bokeh, out of focus, blurry, text, title, breast apart, lineart, dithering, dark areolae, simple illustration, 3::anatomical nonsense::, upscaled, fewer details, incomplete, cheesy, unsatisfactory, inadequate, deficient, subpar, poor, scan artifacts"
   }
  ]
 };
