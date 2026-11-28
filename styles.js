@@ -2578,6 +2578,16 @@ window.LIB = {
    "tags": "1::artist:ushikani kassen ::, 0.8::artist:yumesaki eden ::, 0.7::artist:geulimykun (skbyunea413) ::, 0.8::artist:seoyong ::, 0.5::artist:kunaboto ::, 0.5::artist:healthyman ::, 0.8::artist:wagashi (dagashiya) ::, 0.3::artist:nyantcha ::, 0.4::artist:ie (raarami) ::, 0.6::artist:kafun ::, 0.7::artist:poper (arin sel) ::, 0.8::artist:ebora ::, 0.9::artist:toma (toma50) ::, 1::artist:takano suzu ::, -2::simple illustration ::, -3::artist collaboration ::, -2::official style, official art :: year 2026, year 2025, highres, very aesthetic, best quality, amazing quality, incredibly absurdres, best illustration",
    "k": "f261abd1c2",
    "kinds": []
+  },
+  {
+   "id": "umwzu1jpz",
+   "name": "Yoneyama · glossy anime",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "0.05::artist:shexyo::, 0.5::artist:inoue_kiyoshirou::, 0.75::artist:anteiru:: 1::artist:gogalking ::, 1.15::artist:haze_(7h4ze) ::, 1.2::artist:mx2j::, 1.5::artist:yoneyama mai::, 0.75::artist:pigeon666, :: 0.5::artist:yesman_(cvbnyesman) ::, 0.5::artist:hintobento::, 0.3::artist:takeda hiromitsu::, 0.15::artist:nyantcha::,year 2026, year 2025, oiled, shiny skin, deep skin, lustrous skin, 1.3::clear lines, black outlines, anime coloring:: -3::simple illustration::, -3::multiple images ::, -3::monochrome, greyscale:: -2::flat color::, -2::blurry:: -2.0::censored::, 1.25::highres, best quality::, very aesthetic, masterpiece, absurdres, best illustration, novel illustration",
+   "k": "04175f8b49",
+   "kinds": []
   }
  ]
 };
