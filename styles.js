@@ -2526,6 +2526,16 @@ window.LIB = {
     "Манхва",
     "Тёмный"
    ]
+  },
+  {
+   "id": "umwztxa3x",
+   "name": "Ciloranko · fabric detail",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "<artist> 0.8::artist:parsley-f::, 0.5::artist:hiten_(hitenkei)::, 0.6::artist:fuzichoco::, 1.3::artist:ciloranko:: </artist>, <style> year 2025, year 2026, fine fabric emphasis, detailed background, ultra-detailed, very aesthetic, masterpiece, no text </style>",
+   "k": "0b0a04abc1",
+   "kinds": []
   }
  ]
 };
