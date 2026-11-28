@@ -2546,6 +2546,16 @@ window.LIB = {
    "tags": "<artist> 0.7::artist:krenz::, 0.8::artist:inoitoh::, 0.9::artist:bm94199 ::, 1::artist:yue (memento1113):: </artist>, <style> ultra complexity, high complexity, year 2025, ::high detail::, ::best quality, amazing quality, great quality::, newset, expert shading, best illustration, aesthetic, highres, -1::censored, unfinished::, -3::artist collaboration::, -1::simple illustration, bad illustration:: </style>",
    "k": "4542eb42eb",
    "kinds": []
+  },
+  {
+   "id": "umwztyxxl",
+   "name": "Yabuki · smooth realism",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "1.5::yabuki_kentarou,::, 1.5::matanonki::, 0.5::artist:healthyman::, 0.7::hizuki akira ::, 0.3::freng, artist:blue gk::, 0.5::artist:quasarcake, 0.1::null (nyanpyoun) ::, 0.5::artist:doremi (doremi4704)::, 1::bm94199 :: , 0.8::wlop::, 1:: artist:nixeu::, year 2025, year 2024, -1:: flat color::, -3::artist collaboration::, -4:: blurry ::, -2::censored::, masterpiece, best quality, -1::muted color::,}}}}, 1::smooth gradients, detailed shading::, realistic skin texture, {best quality, amazing quality, very aesthetic, highres, incredibly absurdres}, -3.0::signature ::, -4::upscaled, blurry::, -6.0::artist collaboration ::",
+   "k": "cbbef63736",
+   "kinds": []
   }
  ]
 };

@@ -142,6 +142,14 @@ window.NEG = {
     "umwzty23z"
    ],
    "text": "displeasing, duplicate, mutation, deformed::worst quality, bad quality, low quality::, error, extra digit, fewer digits, signature, web address, watermark, username, unfinished, heterogeneity, lowres, mutiple views, artist logo, artist self-reference, artist sig, oldset, cheesy, unsatisfactory, inadequate, deficient, subpar::::variant set, large variant set, turnaround::, 1::unnatural hair, bad face, cloned face, distorted face, poorly drawn face, wrong body proportions, unrealistic proportions, distorted bewody, anatomical nonsense, bad anatomy, bad perspective, bad proportions, bad hands, malformed hands, poorly drawn hands, bad hand structure ::, dithering, chromatic aberration, digital dissolve, halftone, screentone::, 0.5::blush, sweat::::artist:xinzoruo, artist:bb (baalbuddy), artist:milkpanda::, slender fingers, simple coloring"
+  },
+  {
+   "id": "nmwztyxxn",
+   "name": "К стилю «Yabuki · smooth realism»",
+   "styles": [
+    "umwztyxxl"
+   ],
+   "text": "nsfw, lowres, artistic error, film grain, scan artifacts, worst quality, bad quality, jpeg artifacts, very displeasing, chromatic aberration, dithering, halftone, screentone, multiple views, logo, too many watermarks, negative space, blank page, bar censor, nude, censored, {crotchless}, {bad}, error, fewer, extra, missing, watermark, unfinished, displeasing, signature, extra digits, username, scan, panties, [abstract], bad anatomy, bad hands, @_@, mismatched pupils, {cubism}, {worst quality}, {normal quality}, {bad quality}, {{{{unskillful}}}}, {unfinished}, {incomplete}, {{failure}}, {inferior}, {terrifying}, {haunting}, {bad joint}, {monster}, {ugly}, {retro artstyle}, {key}, low quality, disfigured, poorly drawn, deformed, mutation, fused fingers, fused limb, extra limb, missing fingers, missing limb, missing digit, missing legs, disappearing arms, extra limbs, aged up, old, long neck, long body, rib, dusty sunbeams, depth of field, bokeh, out of focus, blurry, text, title, breast apart, lineart, dark areolae, simple illustration, 3::anatomical nonsense::, upscaled, fewer details, incomplete, cheesy, unsatisfactory, inadequate, deficient, subpar, poor, official art, offical style, artist:xinzoruo, artist:milkpanda, artist:kurukurumagical, artist collaboration"
   }
  ]
 };
