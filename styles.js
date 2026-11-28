@@ -2608,6 +2608,16 @@ window.LIB = {
    "tags": "0.7::artist:sushispin::, 0.8::artist:Yknsugar,:: 1.2::artist_pigeon666,:: 1.2::artist:le_(szs0k)::, 0.5::artist:narue::, 0.2::artist:takeshima eku::, 0.4::artist:ratatatat74, 1.3::artist:masha::, 1.2::artist:patzzi,:: ixy, 1.5::masterpiece, shiny skin, soft anatomy::, 1.6::artist:freng::, 0.7::artist:rifleman1130,:: 0.5::artist:arktic::, 0.3::artist:desert_(deserteagle0321)::,0.2::artist:clov3r::, intricate iris details, aesthetic detailed eyes, aesthetic detailed eyelashes, cinematic lighting, warm lighting, volumetric light, full clothes, very aesthetic, masterpiece, no text, color theme, 0.15::pastel colors::, 2::hue shifting, shifted color palette::, very aesthetic glowing light, vivid cerulean colors, dreamy and ethereal japanese atmosphere, {{year 2025, year 2026}}, -1::artist collaboration ::, 0.5::sharp highlight ::, 0.7::humid skin ::, 0.9::detailed skin texture ::,vivid colors, glossy skin, high contrast, glistening skin, soft colors, dynamic lighting, soft shadows, best illumination, best shadow, year 2025, best quality, amazing quality, highly detailed, very aesthetic, highres, absurdres, 8k image, 8k wallpaper, -1::high saturation ::, -1::production art ::, -1::reference sheet ::, -1::blurry ::, glossy skin, oil skin, sharp focus",
    "k": "fa6a4f55bf",
    "kinds": []
+  },
+  {
+   "id": "umwzu48t0",
+   "name": "Projecttiger · detailed CG",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "0.8::artist:au (d elete) ::, 0.9::artist:wlop::, 1.5::artist:projecttiger ::, 0.8::artist:ask (askzy) ::, 1.3::artist:ramanda ::, 1.3::artist:kurono mitsuki ::, 0.8::artist:fov ps ::, 1.8::artist:mx2j ::, 0.9::artist:nama udon ::, 3::year 2025, year 2024, ::, ,-1.5::censored::, -2::bad anatomy::, -1::depth of field, blurry, x-ray::, 1::locatio ::, highres, 8k, absurdres, best quality, absurdly detailed composition, masterpiece, ::,3::very aesthetic ::, -6::artist collaboration ::, solo artist ::, -2::simple illustration, multiple viewes::, -1::monochrome, greyscale, jaggy lines ::",
+   "k": "29d2ea3a80",
+   "kinds": []
   }
  ]
 };
