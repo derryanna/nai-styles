@@ -2324,7 +2324,7 @@ window.LIB = {
   },
   {
    "id": "umwyon55w",
-   "name": "какбудта может понравится госпоже",
+   "name": "Gorgeous · сложный фон",
    "model": "any",
    "drawn": "v5",
    "house": false,
