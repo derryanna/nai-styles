@@ -2536,6 +2536,16 @@ window.LIB = {
    "tags": "<artist> 0.8::artist:parsley-f::, 0.5::artist:hiten_(hitenkei)::, 0.6::artist:fuzichoco::, 1.3::artist:ciloranko:: </artist>, <style> year 2025, year 2026, fine fabric emphasis, detailed background, ultra-detailed, very aesthetic, masterpiece, no text </style>",
    "k": "0b0a04abc1",
    "kinds": []
+  },
+  {
+   "id": "umwzty23z",
+   "name": "Krenz · complex shading",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "<artist> 0.7::artist:krenz::, 0.8::artist:inoitoh::, 0.9::artist:bm94199 ::, 1::artist:yue (memento1113):: </artist>, <style> ultra complexity, high complexity, year 2025, ::high detail::, ::best quality, amazing quality, great quality::, newset, expert shading, best illustration, aesthetic, highres, -1::censored, unfinished::, -3::artist collaboration::, -1::simple illustration, bad illustration:: </style>",
+   "k": "4542eb42eb",
+   "kinds": []
   }
  ]
 };

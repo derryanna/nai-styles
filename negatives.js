@@ -134,6 +134,14 @@ window.NEG = {
     "umwztxa3x"
    ],
    "text": "lowres, artistic error, film grain, scan artifacts, worst quality, bad quality, jpeg artifacts, very displeasing, chromatic aberration, dithering, halftone, screentone, multiple views, logo, too many watermarks, negative space, blank page, flat color, artist:dairi, artist:kanon (kurogane_knights), artist:hungry clicker, adversarial noise, pale color, dark, muted colors, overexposure, animal, -0.1::low_complexity ::"
+  },
+  {
+   "id": "nmwzty240",
+   "name": "К стилю «Krenz · complex shading»",
+   "styles": [
+    "umwzty23z"
+   ],
+   "text": "displeasing, duplicate, mutation, deformed::worst quality, bad quality, low quality::, error, extra digit, fewer digits, signature, web address, watermark, username, unfinished, heterogeneity, lowres, mutiple views, artist logo, artist self-reference, artist sig, oldset, cheesy, unsatisfactory, inadequate, deficient, subpar::::variant set, large variant set, turnaround::, 1::unnatural hair, bad face, cloned face, distorted face, poorly drawn face, wrong body proportions, unrealistic proportions, distorted bewody, anatomical nonsense, bad anatomy, bad perspective, bad proportions, bad hands, malformed hands, poorly drawn hands, bad hand structure ::, dithering, chromatic aberration, digital dissolve, halftone, screentone::, 0.5::blush, sweat::::artist:xinzoruo, artist:bb (baalbuddy), artist:milkpanda::, slender fingers, simple coloring"
   }
  ]
 };
