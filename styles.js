@@ -2496,7 +2496,7 @@ window.LIB = {
   },
   {
    "id": "umwysbjri",
-   "name": "крутой оч",
+   "name": "Horikoshi · soft cel",
    "model": "v5",
    "drawn": "v5",
    "house": false,
