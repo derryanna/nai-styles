@@ -2630,6 +2630,16 @@ window.LIB = {
    "kinds": [
     "Семи-риал"
    ]
+  },
+  {
+   "id": "umx0nptcm",
+   "name": "minimal pastel",
+   "model": "any",
+   "drawn": "v5",
+   "house": false,
+   "tags": "0.6:🧑‍🎨ratatatat74 ::, artist:lubya, masterpiece, best quality, pale colors, beautiful lighting, amazing quality, very aesthetic, absurdres, year 2026, highres, soft lighting, soft focus, detailed face, detailed eyes",
+   "k": "2072827b15",
+   "kinds": []
   }
  ]
 };
