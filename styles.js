@@ -2446,7 +2446,7 @@ window.LIB = {
   },
   {
    "id": "umwys46d6",
-   "name": "хз1",
+   "name": "Yoneyama · anime cinema",
    "model": "v5",
    "drawn": "v5",
    "house": false,
