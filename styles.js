@@ -2618,6 +2618,18 @@ window.LIB = {
    "tags": "0.8::artist:au (d elete) ::, 0.9::artist:wlop::, 1.5::artist:projecttiger ::, 0.8::artist:ask (askzy) ::, 1.3::artist:ramanda ::, 1.3::artist:kurono mitsuki ::, 0.8::artist:fov ps ::, 1.8::artist:mx2j ::, 0.9::artist:nama udon ::, 3::year 2025, year 2024, ::, ,-1.5::censored::, -2::bad anatomy::, -1::depth of field, blurry, x-ray::, 1::locatio ::, highres, 8k, absurdres, best quality, absurdly detailed composition, masterpiece, ::,3::very aesthetic ::, -6::artist collaboration ::, solo artist ::, -2::simple illustration, multiple viewes::, -1::monochrome, greyscale, jaggy lines ::",
    "k": "29d2ea3a80",
    "kinds": []
+  },
+  {
+   "id": "umwzu4xlf",
+   "name": "Au · photoreal 3D",
+   "model": "v5",
+   "drawn": "v5",
+   "house": false,
+   "tags": "0.9::artist:Au (D Elete) ::, 0.8::bm94199, :: 0.8::artist:checkpik ::, 0.8::artist:izayoi seishin ::, 0.8::yao liao wang::, 1.2::artist: zero q 0q ::, 2::photo (medium)::, 1:: 4k texture, ::, 1::real life ::, 1.5::ray tracing, raytraced, ::, 1.1:: 3d, ::, 1.25::blender (medium), Zbrush (Medium) ::, -2::simple illustration ::, -3::artist collaboration ::, -1::mmd ::, -1::low poly ::, -1::muted colors ::, -2::bloom ::, -2::overexposure ::, -1::official art ::, -1::official style ::, year 2026, year 2025, masterpiece, very aesthetic, high complexity, depthness",
+   "k": "8cb505dd54",
+   "kinds": [
+    "Семи-риал"
+   ]
   }
  ]
 };
