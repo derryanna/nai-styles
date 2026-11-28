@@ -2640,6 +2640,16 @@ window.LIB = {
    "tags": "0.6:🧑‍🎨ratatatat74 ::, artist:lubya, masterpiece, best quality, pale colors, beautiful lighting, amazing quality, very aesthetic, absurdres, year 2026, highres, soft lighting, soft focus, detailed face, detailed eyes",
    "k": "2072827b15",
    "kinds": []
+  },
+  {
+   "id": "umx0rwse4",
+   "name": "милейшество",
+   "model": "any",
+   "drawn": "v5",
+   "house": false,
+   "tags": "0.9:🧑‍🎨tamori (tamori www)::, 0.9:🧑‍🎨makabakabakama::, 0.8:🧑‍🎨kirochy::, 0.8:🧑‍🎨angrymiloras::, 0.6:🧑‍🎨sally chang::, 0.5:🧑‍🎨sevi (seviyummy)::, 0.5:🧑‍🎨monyami::, 0.4:🧑‍🎨bojiu_xiao::, 1.4::sketchy lineart::, 1.3::dark brown lineart, colored lineart::, 1.2::colored pencil (medium)::, 1.2::visible lineart, defined lineart::, pencil lines, thin lineart, 1.4::pale colors::, 1.3::pastel colors::, washed out, low saturation, pink theme, soft coloring, white background, 1.4::pale skin, white skin::, porcelain skin, 1.3::heavy blush::, nose blush, 1.2::long eyelashes::, large eyes, sparkling eyes, glossy lips, pink lips, sparkle, cute, delicate, very aesthetic, masterpiece, best quality, year 2025",
+   "k": "f62daab605",
+   "kinds": []
   }
  ]
 };
